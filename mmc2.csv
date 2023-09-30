@@ -1,0 +1,2656 @@
+location,year_month,public,total,total_sex_male,total_sex_female,total_age_0_19,total_age_20_39,total_age_40_59,total_age_60_max,total_sex_male_age_0_19,total_sex_male_age_20_39,total_sex_male_age_40_59,total_sex_male_age_60_max,total_sex_female_age_0_19,total_sex_female_age_20_39,total_sex_female_age_40_59,total_sex_female_age_60_max
+Australia_New South Wales,Jan 2019,Y,75,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Feb 2019,Y,72,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Mar 2019,Y,91,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Apr 2019,Y,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,May 2019,Y,67,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Jun 2019,Y,67,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Jul 2019,Y,74,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Aug 2019,Y,77,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Sep 2019,Y,85,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Oct 2019,Y,91,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Nov 2019,Y,92,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Dec 2019,Y,95,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Jan 2020,Y,81,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Feb 2020,Y,63,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Mar 2020,Y,87,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Apr 2020,Y,58,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,May 2020,Y,66,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Jun 2020,Y,69,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Jul 2020,Y,86,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Aug 2020,Y,86,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Sep 2020,Y,76,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Oct 2020,Y,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Nov 2020,Y,77,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Dec 2020,Y,88,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Jan 2021,Y,107,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Feb 2021,Y,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Mar 2021,Y,78,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Apr 2021,Y,67,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,May 2021,Y,78,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_New South Wales,Jun 2021,Y,60,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Australia_Queensland,Jan 2016,N,63,46,17,6,26,19,12,.b,17,.b,.b,.b,9,.b,.b
+Australia_Queensland,Feb 2016,N,66,58,8,.b,22,26,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Mar 2016,N,61,45,16,.b,24,19,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Apr 2016,N,46,34,12,.b,16,20,.b,.b,.b,14,.b,.b,.b,6,.b
+Australia_Queensland,May 2016,N,41,26,15,.b,13,.b,12,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jun 2016,N,55,45,10,.b,27,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jul 2016,N,53,39,14,.b,21,17,.b,.b,13,.b,.b,.b,8,.b,.b
+Australia_Queensland,Aug 2016,N,60,46,14,.b,29,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Sep 2016,N,49,35,14,.b,19,17,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Oct 2016,N,65,51,14,.b,24,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Nov 2016,N,61,49,12,8,18,18,17,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Dec 2016,N,63,52,11,.b,29,19,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jan 2017,N,76,57,19,.b,25,30,.b,.b,.b,21,.b,.b,.b,9,.b
+Australia_Queensland,Feb 2017,N,74,52,22,.b,20,34,.b,.b,13,27,.b,.b,7,7,.b
+Australia_Queensland,Mar 2017,N,77,56,21,.b,24,28,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Apr 2017,N,57,40,17,.b,14,30,.b,.b,.b,19,.b,.b,.b,11,.b
+Australia_Queensland,May 2017,N,54,42,12,.b,19,20,.b,.b,.b,14,.b,.b,.b,6,.b
+Australia_Queensland,Jun 2017,N,63,51,12,.b,17,34,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jul 2017,N,62,49,13,.b,22,27,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Aug 2017,N,71,56,15,.b,25,30,.b,.b,18,.b,.b,.b,7,.b,.b
+Australia_Queensland,Sep 2017,N,64,49,15,.b,21,28,.b,.b,15,.b,.b,.b,6,.b,.b
+Australia_Queensland,Oct 2017,N,81,61,20,.b,36,30,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Nov 2017,N,73,55,18,.b,29,26,.b,.b,.b,16,.b,.b,.b,10,.b
+Australia_Queensland,Dec 2017,N,67,53,14,.b,24,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jan 2018,N,72,63,9,8,23,27,14,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Feb 2018,N,67,50,17,.b,25,22,.b,.b,.b,16,.b,.b,.b,6,.b
+Australia_Queensland,Mar 2018,N,68,58,10,.b,30,25,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Apr 2018,N,54,43,11,.b,19,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,May 2018,N,57,38,19,.b,20,25,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jun 2018,N,61,49,12,.b,20,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jul 2018,N,57,44,13,6,19,24,8,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Aug 2018,N,59,45,14,7,24,18,10,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Sep 2018,N,67,56,11,.b,27,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Oct 2018,N,73,48,25,.b,23,24,.b,.b,14,.b,.b,.b,9,.b,.b
+Australia_Queensland,Nov 2018,N,79,61,18,9,31,23,16,.b,25,17,.b,.b,6,6,.b
+Australia_Queensland,Dec 2018,N,66,48,18,.b,27,21,.b,.b,18,.b,.b,.b,9,.b,.b
+Australia_Queensland,Jan 2019,N,70,57,13,.b,25,33,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Feb 2019,N,70,54,16,6,22,26,16,.b,15,.b,.b,.b,7,.b,.b
+Australia_Queensland,Mar 2019,N,58,45,13,.b,21,22,.b,.b,15,.b,.b,.b,6,.b,.b
+Australia_Queensland,Apr 2019,N,68,45,23,.b,35,.b,16,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,May 2019,N,67,51,16,7,19,25,16,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jun 2019,N,46,35,11,.b,20,16,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jul 2019,N,77,63,14,.b,23,32,.b,.b,.b,26,.b,.b,.b,6,.b
+Australia_Queensland,Aug 2019,N,59,40,19,.b,20,22,.b,.b,11,.b,.b,.b,9,.b,.b
+Australia_Queensland,Sep 2019,N,62,47,15,.b,22,25,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Oct 2019,N,69,51,18,6,26,24,13,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Nov 2019,N,64,45,19,6,26,25,7,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Dec 2019,N,60,45,15,.b,.b,27,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jan 2020,N,76,61,15,.b,32,31,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Feb 2020,N,76,66,10,.b,29,28,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Mar 2020,N,69,50,19,7,25,26,11,.b,15,.b,.b,.b,10,.b,.b
+Australia_Queensland,Apr 2020,N,66,48,18,.b,25,20,.b,.b,.b,14,.b,.b,.b,6,.b
+Australia_Queensland,May 2020,N,70,56,14,8,25,22,15,.b,18,.b,.b,.b,7,.b,.b
+Australia_Queensland,Jun 2020,N,54,38,16,7,26,11,10,.b,19,.b,.b,.b,7,.b,.b
+Australia_Queensland,Jul 2020,N,52,42,10,.b,19,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Aug 2020,N,57,46,11,.b,24,.b,16,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Sep 2020,N,62,48,14,.b,23,20,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Oct 2020,N,63,51,12,.b,23,.b,19,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Nov 2020,N,74,56,18,.b,32,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Dec 2020,N,72,54,18,.b,28,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Queensland,Jan 2021,N,70,49,21,.b,24,.b,22,.b,.b,.b,16,.b,.b,.b,6
+Australia_Queensland,Feb 2021,N,81,63,18,.b,27,30,.b,.b,.b,21,.b,.b,.b,9,.b
+Australia_Queensland,Mar 2021,N,62,48,14,6,20,24,12,.b,14,.b,.b,.b,6,.b,.b
+Australia_Queensland,Apr 2021,N,54,33,21,.b,19,19,.b,.b,11,13,.b,.b,8,6,.b
+Australia_Queensland,May 2021,N,67,54,13,.b,34,18,.b,.b,27,.b,.b,.b,7,.b,.b
+Australia_Queensland,Jun 2021,N,70,54,16,.b,29,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Jan 2016,N,60,51,9,.b,.b,20,22,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Feb 2016,N,51,41,10,.b,25,16,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Mar 2016,N,61,46,15,.b,21,.b,18,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Apr 2016,N,44,32,12,6,16,14,8,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,May 2016,N,58,40,18,.b,21,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Jun 2016,N,49,32,17,.b,15,21,.b,.b,.b,13,.b,.b,.b,8,.b
+Australia_Victoria,Jul 2016,N,48,36,12,.b,18,16,.b,.b,.b,10,.b,.b,.b,6,.b
+Australia_Victoria,Aug 2016,N,58,37,21,.b,26,20,.b,.b,16,.b,.b,.b,10,.b,.b
+Australia_Victoria,Sep 2016,N,62,47,15,.b,31,18,.b,.b,24,.b,.b,.b,7,.b,.b
+Australia_Victoria,Oct 2016,N,49,36,13,.b,25,13,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Nov 2016,N,57,38,19,.b,24,18,.b,.b,17,.b,.b,.b,7,.b,.b
+Australia_Victoria,Dec 2016,N,56,40,16,.b,22,24,.b,.b,.b,15,.b,.b,.b,9,.b
+Australia_Victoria,Jan 2017,N,60,40,20,.b,22,19,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Feb 2017,N,49,40,9,.b,17,16,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Mar 2017,N,72,59,13,.b,35,24,.b,.b,29,.b,.b,.b,6,.b,.b
+Australia_Victoria,Apr 2017,N,50,36,14,.b,.b,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,May 2017,N,49,32,17,.b,18,18,.b,.b,.b,12,.b,.b,.b,6,.b
+Australia_Victoria,Jun 2017,N,52,33,19,.b,17,24,.b,.b,.b,14,.b,.b,.b,10,.b
+Australia_Victoria,Jul 2017,N,63,44,19,.b,19,26,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Aug 2017,N,58,41,17,8,17,25,8,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Sep 2017,N,40,26,14,.b,15,17,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Oct 2017,N,61,51,10,.b,24,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Nov 2017,N,60,46,14,.b,18,31,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Dec 2017,N,61,47,14,.b,23,26,.b,.b,.b,18,.b,.b,.b,8,.b
+Australia_Victoria,Jan 2018,N,50,43,7,.b,15,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Feb 2018,N,50,38,12,.b,25,16,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Mar 2018,N,65,49,16,.b,26,23,.b,.b,.b,15,.b,.b,.b,8,.b
+Australia_Victoria,Apr 2018,N,61,44,17,.b,28,15,.b,.b,21,.b,.b,.b,7,.b,.b
+Australia_Victoria,May 2018,N,55,41,14,.b,16,23,.b,.b,.b,16,.b,.b,.b,7,.b
+Australia_Victoria,Jun 2018,N,51,33,18,.b,23,19,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Jul 2018,N,67,54,13,.b,26,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Aug 2018,N,59,40,19,.b,25,18,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Sep 2018,N,52,29,23,.b,20,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Oct 2018,N,63,51,12,.b,21,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Nov 2018,N,74,55,19,.b,25,25,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Dec 2018,N,63,50,13,.b,.b,26,19,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Jan 2019,N,73,60,13,.b,34,22,.b,.b,.b,16,.b,.b,.b,6,.b
+Australia_Victoria,Feb 2019,N,61,44,17,.b,18,28,.b,.b,.b,21,.b,.b,.b,7,.b
+Australia_Victoria,Mar 2019,N,54,41,13,.b,20,22,.b,.b,.b,16,.b,.b,.b,6,.b
+Australia_Victoria,Apr 2019,N,57,37,20,.b,25,19,.b,.b,.b,11,.b,.b,.b,8,.b
+Australia_Victoria,May 2019,N,64,51,13,.b,31,20,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Jun 2019,N,55,46,9,.b,26,19,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Jul 2019,N,54,39,15,.b,16,21,.b,.b,.b,13,.b,.b,.b,8,.b
+Australia_Victoria,Aug 2019,N,62,43,19,.b,20,23,.b,.b,.b,17,.b,.b,.b,6,.b
+Australia_Victoria,Sep 2019,N,54,38,16,.b,.b,23,.b,.b,.b,17,.b,.b,.b,6,.b
+Australia_Victoria,Oct 2019,N,65,52,13,6,27,19,13,.b,21,.b,.b,.b,6,.b,.b
+Australia_Victoria,Nov 2019,N,55,42,13,.b,.b,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Dec 2019,N,64,49,15,.b,21,26,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Jan 2020,N,67,57,10,.b,20,29,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Feb 2020,N,64,49,15,.b,23,26,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Mar 2020,N,75,59,16,.b,25,27,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Apr 2020,N,54,35,19,.b,20,.b,16,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,May 2020,N,58,41,17,.b,21,20,.b,.b,14,.b,.b,.b,7,.b,.b
+Australia_Victoria,Jun 2020,N,57,41,16,.b,20,.b,20,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Jul 2020,N,60,45,15,.b,28,.b,16,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Aug 2020,N,60,41,19,.b,25,18,.b,.b,15,.b,.b,.b,10,.b,.b
+Australia_Victoria,Sep 2020,N,49,34,15,.b,16,.b,17,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Oct 2020,N,52,35,17,.b,20,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Nov 2020,N,68,53,15,.b,25,31,.b,.b,19,.b,.b,.b,6,.b,.b
+Australia_Victoria,Dec 2020,N,52,43,9,.b,24,19,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Jan 2021,N,56,44,12,.b,14,28,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Feb 2021,N,49,37,12,.b,23,14,.b,.b,17,.b,.b,.b,6,.b,.b
+Australia_Victoria,Mar 2021,N,68,56,12,.b,26,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,Apr 2021,N,48,36,12,.b,21,13,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Australia_Victoria,May 2021,N,55,42,13,.b,22,.b,15,.b,16,.b,.b,.b,6,.b,.b
+Australia_Victoria,Jun 2021,N,55,41,14,.b,17,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jan 2018,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Feb 2018,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Mar 2018,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Apr 2018,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,May 2018,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jun 2018,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jul 2018,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Aug 2018,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Sep 2018,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Oct 2018,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Nov 2018,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Dec 2018,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jan 2019,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Feb 2019,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Mar 2019,N,15,9,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Apr 2019,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,May 2019,N,13,.b,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jun 2019,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jul 2019,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Aug 2019,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Sep 2019,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Oct 2019,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Nov 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Dec 2019,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jan 2020,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Feb 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Mar 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Apr 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,May 2020,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jun 2020,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jul 2020,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Aug 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Sep 2020,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Oct 2020,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Nov 2020,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Dec 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jan 2021,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Feb 2021,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Mar 2021,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Apr 2021,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,May 2021,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Carinthia,Jun 2021,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jan 2016,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Feb 2016,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Mar 2016,N,13,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Apr 2016,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,May 2016,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jun 2016,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jul 2016,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Aug 2016,N,15,8,7,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Sep 2016,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Oct 2016,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Nov 2016,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Dec 2016,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jan 2017,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Feb 2017,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Mar 2017,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Apr 2017,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,May 2017,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jun 2017,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jul 2017,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Aug 2017,N,13,.b,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Sep 2017,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Oct 2017,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Nov 2017,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Dec 2017,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jan 2018,N,14,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Feb 2018,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Mar 2018,N,13,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Apr 2018,N,12,.b,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,May 2018,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jun 2018,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jul 2018,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Aug 2018,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Sep 2018,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Oct 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Nov 2018,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Dec 2018,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jan 2019,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Feb 2019,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Mar 2019,N,16,10,6,.b,.b,9,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Apr 2019,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,May 2019,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jun 2019,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jul 2019,N,14,.b,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Aug 2019,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Sep 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Oct 2019,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Nov 2019,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Dec 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jan 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Feb 2020,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Mar 2020,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Apr 2020,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,May 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jun 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jul 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Aug 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Sep 2020,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Oct 2020,N,13,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Nov 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Dec 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jan 2021,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Feb 2021,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Mar 2021,N,13,.b,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Apr 2021,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,May 2021,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Austria_Tyrol,Jun 2021,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Belgium,Jan 2017,N,110,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Feb 2017,N,119,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Mar 2017,N,127,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Apr 2017,N,130,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,May 2017,N,133,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jun 2017,N,121,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jul 2017,N,116,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Aug 2017,N,116,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Sep 2017,N,119,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Oct 2017,N,116,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Nov 2017,N,120,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Dec 2017,N,108,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jan 2018,N,107,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Feb 2018,N,103,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Mar 2018,N,146,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Apr 2018,N,113,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,May 2018,N,110,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jun 2018,N,107,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jul 2018,N,133,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Aug 2018,N,112,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Sep 2018,N,112,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Oct 2018,N,111,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Nov 2018,N,116,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Dec 2018,N,128,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jan 2019,N,119,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Feb 2019,N,105,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Mar 2019,N,100,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Apr 2019,N,115,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,May 2019,N,130,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jun 2019,N,116,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jul 2019,N,120,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Aug 2019,N,113,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Sep 2019,N,100,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Oct 2019,N,126,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Nov 2019,N,96,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Dec 2019,N,105,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jan 2020,N,124,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Feb 2020,N,112,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Mar 2020,N,101,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Apr 2020,N,106,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,May 2020,N,109,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jun 2020,N,133,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Jul 2020,N,115,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Aug 2020,N,133,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Sep 2020,N,102,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Oct 2020,N,106,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Nov 2020,N,96,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Belgium,Dec 2020,N,111,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Brazil,Jan 2016,N,941,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Feb 2016,N,926,734,192,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Mar 2016,N,929,715,214,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Apr 2016,N,919,730,189,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,May 2016,N,927,721,206,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jun 2016,N,879,699,180,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jul 2016,N,925,754,171,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Aug 2016,N,910,714,196,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Sep 2016,N,962,778,184,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Oct 2016,N,1047,828,219,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Nov 2016,N,1016,789,227,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Dec 2016,N,1052,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jan 2017,N,1059,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Feb 2017,N,967,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Mar 2017,N,1055,817,238,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Apr 2017,N,923,728,195,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,May 2017,N,1029,815,214,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jun 2017,N,932,736,196,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jul 2017,N,938,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Aug 2017,N,1071,822,249,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Sep 2017,N,1135,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Oct 2017,N,1212,967,245,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Nov 2017,N,1063,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Dec 2017,N,1111,872,239,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jan 2018,N,1077,864,213,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Feb 2018,N,957,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Mar 2018,N,1133,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Apr 2018,N,1069,832,237,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,May 2018,N,1041,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jun 2018,N,972,758,214,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jul 2018,N,1028,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Aug 2018,N,1038,804,234,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Sep 2018,N,1085,850,235,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Oct 2018,N,1090,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Nov 2018,N,1093,863,230,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Dec 2018,N,1150,915,235,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jan 2019,N,1112,881,231,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Feb 2019,N,1028,811,217,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Mar 2019,N,1222,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Apr 2019,N,1123,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,May 2019,N,1145,873,272,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jun 2019,N,1054,832,222,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jul 2019,N,1086,836,250,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Aug 2019,N,1103,865,238,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Sep 2019,N,1174,921,253,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Oct 2019,N,1134,892,242,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Nov 2019,N,1152,922,230,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Dec 2019,N,1187,942,245,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jan 2020,N,1192,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Feb 2020,N,1102,876,226,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Mar 2020,N,1077,821,256,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Apr 2020,N,970,767,203,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,May 2020,N,976,778,198,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jun 2020,N,951,770,181,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jul 2020,N,948,741,207,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Aug 2020,N,959,734,225,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Sep 2020,N,1022,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Oct 2020,N,1059,845,214,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Nov 2020,N,1038,813,225,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Dec 2020,N,962,761,201,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Jan 2021,N,1093,849,244,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Feb 2021,N,976,762,214,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Mar 2021,N,956,750,206,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Brazil,Apr 2021,N,633,486,147,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Alberta,Jan 2016,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Feb 2016,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Mar 2016,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Apr 2016,N,57,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,May 2016,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jun 2016,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jul 2016,N,60,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Aug 2016,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Sep 2016,N,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Oct 2016,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Nov 2016,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Dec 2016,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jan 2017,N,61,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Feb 2017,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Mar 2017,N,58,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Apr 2017,N,52,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,May 2017,N,57,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jun 2017,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jul 2017,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Aug 2017,N,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Sep 2017,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Oct 2017,N,53,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Nov 2017,N,41,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Dec 2017,N,63,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jan 2018,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Feb 2018,N,53,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Mar 2018,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Apr 2018,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,May 2018,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jun 2018,N,61,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jul 2018,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Aug 2018,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Sep 2018,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Oct 2018,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Nov 2018,N,59,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Dec 2018,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jan 2019,N,43,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Feb 2019,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Mar 2019,N,68,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Apr 2019,N,58,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,May 2019,N,52,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jun 2019,N,34,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jul 2019,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Aug 2019,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Sep 2019,N,40,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Oct 2019,N,59,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Nov 2019,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Dec 2019,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jan 2020,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Feb 2020,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Mar 2020,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Apr 2020,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,May 2020,N,53,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jun 2020,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jul 2020,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Aug 2020,N,71,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Sep 2020,N,39,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Oct 2020,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Nov 2020,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Dec 2020,N,45,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jan 2021,N,52,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Feb 2021,N,32,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Mar 2021,N,53,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Apr 2021,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,May 2021,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Alberta,Jun 2021,N,34,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jan 2016,N,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Feb 2016,N,53,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Mar 2016,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Apr 2016,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,May 2016,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jun 2016,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jul 2016,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Aug 2016,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Sep 2016,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Oct 2016,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Nov 2016,N,38,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Dec 2016,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jan 2017,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Feb 2017,N,38,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Mar 2017,N,66,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Apr 2017,N,48,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,May 2017,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jun 2017,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jul 2017,N,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Aug 2017,N,53,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Sep 2017,N,31,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Oct 2017,N,43,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Nov 2017,N,39,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Dec 2017,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jan 2018,N,40,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Feb 2018,N,38,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Mar 2018,N,45,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Apr 2018,N,39,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,May 2018,N,61,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jun 2018,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jul 2018,N,58,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Aug 2018,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Sep 2018,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Oct 2018,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Nov 2018,N,40,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Dec 2018,N,35,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jan 2019,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Feb 2019,N,52,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Mar 2019,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Apr 2019,N,53,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,May 2019,N,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jun 2019,N,43,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jul 2019,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Aug 2019,N,60,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Sep 2019,N,64,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Oct 2019,N,41,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Nov 2019,N,48,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Dec 2019,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jan 2020,N,59,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Feb 2020,N,57,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Mar 2020,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Apr 2020,N,38,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,May 2020,N,38,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jun 2020,N,59,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Jul 2020,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Aug 2020,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Sep 2020,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Oct 2020,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Nov 2020,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_British Columbia,Dec 2020,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Manitoba,Jan 2016,N,17,9,8,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Feb 2016,N,17,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Mar 2016,N,18,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Apr 2016,N,20,.b,.b,.b,.b,9,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,May 2016,N,17,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jun 2016,N,20,13,7,.b,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jul 2016,N,17,11,6,.b,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Aug 2016,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Sep 2016,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Oct 2016,N,15,9,6,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Nov 2016,N,16,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Dec 2016,N,18,11,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jan 2017,N,19,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Feb 2017,N,16,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Mar 2017,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Apr 2017,N,26,18,8,.b,7,10,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,May 2017,N,15,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jun 2017,N,16,9,7,.b,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jul 2017,N,18,11,7,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Aug 2017,N,20,12,8,.b,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Sep 2017,N,18,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Oct 2017,N,24,13,11,.b,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Nov 2017,N,19,.b,.b,.b,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Dec 2017,N,16,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jan 2018,N,16,10,6,.b,.b,9,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Feb 2018,N,16,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Mar 2018,N,21,12,9,.b,.b,9,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Apr 2018,N,19,.b,.b,.b,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,May 2018,N,16,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jun 2018,N,20,.b,.b,.b,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jul 2018,N,20,11,9,.b,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Aug 2018,N,26,17,9,.b,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Sep 2018,N,22,.b,.b,.b,6,9,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Oct 2018,N,21,11,10,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Nov 2018,N,20,14,6,.b,8,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Dec 2018,N,18,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jan 2019,N,18,.b,.b,.b,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Feb 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Mar 2019,N,16,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Apr 2019,N,24,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,May 2019,N,18,12,6,.b,6,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jun 2019,N,20,14,6,.b,8,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jul 2019,N,21,.b,.b,.b,8,.b,6,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Aug 2019,N,21,14,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Sep 2019,N,22,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Oct 2019,N,19,12,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Nov 2019,N,21,15,6,.b,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Dec 2019,N,22,.b,.b,.b,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jan 2020,N,25,18,7,.b,.b,12,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Feb 2020,N,19,13,6,.b,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Mar 2020,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Apr 2020,N,16,10,6,.b,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,May 2020,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jun 2020,N,23,.b,.b,.b,16,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Jul 2020,N,17,10,7,.b,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Aug 2020,N,23,13,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Sep 2020,N,23,.b,.b,.b,8,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Oct 2020,N,18,12,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Nov 2020,N,15,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Manitoba,Dec 2020,N,15,.b,.b,.b,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Nova Scotia,Jan 2016,N,19,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Feb 2016,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Mar 2016,N,9,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Apr 2016,N,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,May 2016,N,12,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jun 2016,N,15,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jul 2016,N,16,9,7,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Aug 2016,N,11,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Sep 2016,N,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Oct 2016,N,9,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Nov 2016,N,14,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Dec 2016,N,6,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jan 2017,N,15,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Feb 2017,N,8,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Mar 2017,N,11,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Apr 2017,N,12,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,May 2017,N,7,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jun 2017,N,19,11,8,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jul 2017,N,15,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Aug 2017,N,15,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Sep 2017,N,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Oct 2017,N,12,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Nov 2017,N,8,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Dec 2017,N,11,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jan 2018,N,11,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Feb 2018,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Mar 2018,N,10,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Apr 2018,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,May 2018,N,18,12,6,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jun 2018,N,12,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jul 2018,N,9,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Aug 2018,N,17,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Sep 2018,N,8,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Oct 2018,N,8,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Nov 2018,N,8,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Dec 2018,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jan 2019,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Feb 2019,N,9,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Mar 2019,N,14,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Apr 2019,N,15,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,May 2019,N,8,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jun 2019,N,14,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jul 2019,N,12,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Aug 2019,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Sep 2019,N,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Oct 2019,N,11,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Nov 2019,N,11,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Dec 2019,N,12,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jan 2020,N,11,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Feb 2020,N,11,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Mar 2020,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Apr 2020,N,10,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,May 2020,N,7,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jun 2020,N,9,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jul 2020,N,7,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Aug 2020,N,10,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Sep 2020,N,15,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Oct 2020,N,8,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Nov 2020,N,12,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Dec 2020,N,8,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jan 2021,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Feb 2021,N,7,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Mar 2021,N,10,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Apr 2021,N,15,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,May 2021,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Nova Scotia,Jun 2021,N,13,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Jan 2019,N,131,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Feb 2019,N,109,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Mar 2019,N,122,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Apr 2019,N,130,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,May 2019,N,144,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Jun 2019,N,133,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Jul 2019,N,151,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Aug 2019,N,122,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Sep 2019,N,132,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Oct 2019,N,131,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Nov 2019,N,125,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Dec 2019,N,131,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Jan 2020,N,128,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Feb 2020,N,98,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Mar 2020,N,121,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Apr 2020,N,102,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,May 2020,N,123,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Jun 2020,N,120,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Jul 2020,N,130,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Aug 2020,N,138,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Sep 2020,N,135,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Oct 2020,N,110,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Nov 2020,N,127,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Ontario,Dec 2020,N,102,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Canada_Saskatchewan,Jan 2016,N,17,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Feb 2016,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Mar 2016,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Apr 2016,N,14,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,May 2016,N,17,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jun 2016,N,21,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jul 2016,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Aug 2016,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Sep 2016,N,17,11,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Oct 2016,N,19,9,10,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Nov 2016,N,16,8,8,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Dec 2016,N,18,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jan 2017,N,20,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Feb 2017,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Mar 2017,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Apr 2017,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,May 2017,N,16,9,7,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jun 2017,N,24,.b,.b,.b,8,9,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jul 2017,N,20,.b,.b,.b,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Aug 2017,N,21,.b,.b,.b,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Sep 2017,N,14,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Oct 2017,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Nov 2017,N,15,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Dec 2017,N,17,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jan 2018,N,27,20,7,.b,8,10,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Feb 2018,N,13,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Mar 2018,N,21,13,8,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Apr 2018,N,31,.b,.b,.b,9,13,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,May 2018,N,18,.b,.b,.b,6,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jun 2018,N,22,16,6,.b,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jul 2018,N,20,.b,.b,.b,6,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Aug 2018,N,22,13,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Sep 2018,N,18,.b,.b,.b,.b,10,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Oct 2018,N,17,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Nov 2018,N,15,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Dec 2018,N,18,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jan 2019,N,15,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Feb 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Mar 2019,N,16,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Apr 2019,N,20,.b,.b,.b,8,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,May 2019,N,19,.b,.b,.b,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jun 2019,N,19,.b,.b,7,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jul 2019,N,19,.b,.b,.b,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Aug 2019,N,12,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Sep 2019,N,20,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Oct 2019,N,14,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Nov 2019,N,24,.b,.b,.b,8,9,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Dec 2019,N,18,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jan 2020,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Feb 2020,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Mar 2020,N,16,9,7,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Apr 2020,N,17,11,6,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,May 2020,N,31,21,10,.b,17,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jun 2020,N,14,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jul 2020,N,22,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Aug 2020,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Sep 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Oct 2020,N,16,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Nov 2020,N,14,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Dec 2020,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jan 2021,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Feb 2021,N,19,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Mar 2021,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Apr 2021,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,May 2021,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Canada_Saskatchewan,Jun 2021,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jan 2016,N,80,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Feb 2016,N,80,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Mar 2016,N,79,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Apr 2016,N,86,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,May 2016,N,73,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jun 2016,N,82,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jul 2016,N,65,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Aug 2016,N,93,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Sep 2016,N,58,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Oct 2016,N,78,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Nov 2016,N,79,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Dec 2016,N,75,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jan 2017,N,83,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Feb 2017,N,89,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Mar 2017,N,79,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Apr 2017,N,76,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,May 2017,N,98,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jun 2017,N,99,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jul 2017,N,79,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Aug 2017,N,79,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Sep 2017,N,79,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Oct 2017,N,78,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Nov 2017,N,65,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Dec 2017,N,64,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jan 2018,N,96,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Feb 2018,N,55,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Mar 2018,N,86,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Apr 2018,N,74,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,May 2018,N,79,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jun 2018,N,61,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jul 2018,N,72,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Aug 2018,N,105,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Sep 2018,N,73,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Oct 2018,N,86,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Nov 2018,N,80,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Dec 2018,N,79,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jan 2019,N,82,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Feb 2019,N,72,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Mar 2019,N,82,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Apr 2019,N,96,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,May 2019,N,89,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jun 2019,N,84,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jul 2019,N,88,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Aug 2019,N,77,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Sep 2019,N,85,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Oct 2019,N,79,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Nov 2019,N,69,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Dec 2019,N,78,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jan 2020,N,61,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Feb 2020,N,70,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Mar 2020,N,52,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Apr 2020,N,70,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,May 2020,N,97,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jun 2020,N,77,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Jul 2020,N,48,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Aug 2020,N,74,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Sep 2020,N,55,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Oct 2020,N,75,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Nov 2020,N,62,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+China_Hong Kong,Dec 2020,N,65,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Costa Rica,Jan 2016,Y,37,30,7,2,18,14,3,2,12,14,2,0,6,0,1
+Costa Rica,Feb 2016,Y,25,21,4,3,10,7,5,2,8,6,5,1,2,1,0
+Costa Rica,Mar 2016,Y,21,19,2,1,10,6,4,1,10,4,4,0,0,2,0
+Costa Rica,Apr 2016,Y,29,29,0,3,10,12,3,3,10,12,3,0,0,0,0
+Costa Rica,May 2016,Y,27,27,0,6,13,5,3,6,13,5,3,0,0,0,0
+Costa Rica,Jun 2016,Y,23,20,3,0,11,9,3,0,10,8,2,0,1,1,1
+Costa Rica,Jul 2016,Y,23,20,3,3,9,6,5,2,7,6,5,1,2,0,0
+Costa Rica,Aug 2016,Y,35,29,6,7,15,10,3,7,12,8,2,0,3,2,1
+Costa Rica,Sep 2016,Y,31,20,11,1,15,10,5,0,10,6,4,1,5,4,1
+Costa Rica,Oct 2016,Y,26,18,8,1,16,6,3,1,12,3,2,0,4,3,1
+Costa Rica,Nov 2016,Y,32,25,7,1,16,9,6,1,13,6,5,0,3,3,1
+Costa Rica,Dec 2016,Y,30,29,1,3,15,9,3,3,14,9,3,0,1,0,0
+Costa Rica,Jan 2017,Y,32,24,8,0,16,13,3,0,14,9,1,0,2,4,2
+Costa Rica,Feb 2017,Y,31,25,6,1,19,9,2,1,15,7,2,0,4,2,0
+Costa Rica,Mar 2017,Y,39,31,8,3,17,14,5,3,14,10,4,0,3,4,1
+Costa Rica,Apr 2017,Y,24,20,4,1,11,10,2,1,9,8,2,0,2,2,0
+Costa Rica,May 2017,Y,27,21,6,4,10,8,5,3,8,6,4,1,2,2,1
+Costa Rica,Jun 2017,Y,27,20,7,4,10,11,2,2,8,8,2,2,2,3,0
+Costa Rica,Jul 2017,Y,25,20,5,1,13,7,4,1,9,7,3,0,4,0,1
+Costa Rica,Aug 2017,Y,18,16,2,1,7,6,4,1,7,4,4,0,0,2,0
+Costa Rica,Sep 2017,Y,22,20,2,4,11,3,4,2,11,3,4,2,0,0,0
+Costa Rica,Oct 2017,Y,26,20,6,3,15,5,3,2,10,5,3,1,5,0,0
+Costa Rica,Nov 2017,Y,20,18,2,1,15,2,2,1,13,2,2,0,2,0,0
+Costa Rica,Dec 2017,Y,26,21,5,3,8,10,5,2,5,9,5,1,3,1,0
+Costa Rica,Jan 2018,Y,30,21,9,2,15,11,2,1,12,6,2,1,3,5,0
+Costa Rica,Feb 2018,Y,38,32,6,3,19,12,4,2,16,11,3,1,3,1,1
+Costa Rica,Mar 2018,Y,32,28,4,3,19,9,1,1,17,9,1,2,2,0,0
+Costa Rica,Apr 2018,Y,30,24,6,4,14,10,2,3,10,9,2,1,4,1,0
+Costa Rica,May 2018,Y,38,32,6,2,22,12,2,2,18,10,2,0,4,2,0
+Costa Rica,Jun 2018,Y,30,23,7,2,11,9,8,1,8,8,6,1,3,1,2
+Costa Rica,Jul 2018,Y,41,37,4,2,15,20,4,1,14,18,4,1,1,2,0
+Costa Rica,Aug 2018,Y,28,22,6,2,15,6,5,1,12,5,4,1,3,1,1
+Costa Rica,Sep 2018,Y,36,26,10,1,20,9,6,1,13,7,5,0,7,2,1
+Costa Rica,Oct 2018,Y,35,28,7,4,15,9,7,3,11,7,7,1,4,2,0
+Costa Rica,Nov 2018,Y,25,21,4,2,10,8,5,1,9,7,4,1,1,1,1
+Costa Rica,Dec 2018,Y,34,25,9,2,13,13,6,2,9,8,6,0,4,5,0
+Costa Rica,Jan 2019,Y,37,32,5,3,14,17,3,3,13,13,3,0,1,4,0
+Costa Rica,Feb 2019,Y,31,28,3,2,17,7,5,2,15,7,4,0,2,0,1
+Costa Rica,Mar 2019,Y,33,28,5,5,14,8,6,3,13,7,5,2,1,1,1
+Costa Rica,Apr 2019,Y,26,22,4,3,6,11,6,2,5,11,4,1,1,0,2
+Costa Rica,May 2019,Y,34,31,3,3,15,12,4,3,12,12,4,0,3,0,0
+Costa Rica,Jun 2019,Y,33,29,4,2,14,11,6,2,10,11,6,0,4,0,0
+Costa Rica,Jul 2019,Y,24,21,3,4,9,3,8,4,8,2,7,0,1,1,1
+Costa Rica,Aug 2019,Y,37,31,6,1,11,19,6,0,8,18,5,1,3,1,1
+Costa Rica,Sep 2019,Y,37,34,3,5,13,12,6,5,11,11,6,0,2,1,0
+Costa Rica,Oct 2019,Y,28,24,4,3,12,8,5,3,11,5,5,0,1,3,0
+Costa Rica,Nov 2019,Y,22,17,5,2,11,8,1,1,9,6,1,1,2,2,0
+Costa Rica,Dec 2019,Y,42,35,7,5,24,11,2,5,18,10,2,0,6,1,0
+Costa Rica,Jan 2020,Y,25,25,0,1,12,6,6,1,12,6,6,0,0,0,0
+Costa Rica,Feb 2020,Y,49,37,12,7,24,11,7,5,17,10,5,2,7,1,2
+Costa Rica,Mar 2020,Y,27,22,5,1,14,10,2,0,10,10,2,1,4,0,0
+Costa Rica,Apr 2020,Y,22,16,6,4,8,6,4,3,6,4,3,1,2,2,1
+Costa Rica,May 2020,Y,30,21,9,3,14,9,4,1,11,6,3,2,3,3,1
+Costa Rica,Jun 2020,Y,25,20,5,4,10,8,3,1,9,7,3,3,1,1,0
+Costa Rica,Jul 2020,Y,33,25,8,3,13,12,5,3,8,9,5,0,5,3,0
+Costa Rica,Aug 2020,Y,39,29,10,3,17,14,4,1,13,11,4,2,4,3,0
+Costa Rica,Sep 2020,Y,34,29,5,2,18,12,2,1,15,11,2,1,3,1,0
+Costa Rica,Oct 2020,Y,19,15,4,3,9,6,1,2,7,5,1,1,2,1,0
+Costa Rica,Nov 2020,Y,26,24,2,3,14,5,4,3,12,5,4,0,2,0,0
+Costa Rica,Dec 2020,Y,27,15,12,0,14,7,6,0,6,4,5,0,8,3,1
+Croatia,Jan 2016,N,58,45,13,.b,.b,24,22,.b,.b,17,.b,.b,.b,7,.b
+Croatia,Feb 2016,N,47,35,12,.b,11,.b,24,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Mar 2016,N,47,38,9,.b,.b,16,24,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Apr 2016,N,60,47,13,.b,.b,15,31,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,May 2016,N,52,37,15,.b,.b,17,29,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jun 2016,N,62,46,16,.b,.b,26,29,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jul 2016,N,66,55,11,.b,.b,23,33,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Aug 2016,N,56,40,16,.b,.b,17,33,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Sep 2016,N,63,49,14,.b,.b,18,29,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Oct 2016,N,42,31,11,.b,.b,15,17,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Nov 2016,N,52,43,9,.b,.b,18,23,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Dec 2016,N,51,45,6,.b,.b,18,19,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jan 2017,N,38,31,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Feb 2017,N,43,31,12,.b,.b,11,24,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Mar 2017,N,55,44,11,.b,.b,20,26,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Apr 2017,N,54,42,12,.b,.b,25,22,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,May 2017,N,48,31,17,.b,.b,12,28,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jun 2017,N,45,35,10,.b,.b,14,20,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jul 2017,N,64,46,18,.b,.b,20,27,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Aug 2017,N,51,40,11,.b,.b,14,26,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Sep 2017,N,66,48,18,.b,14,.b,38,.b,.b,.b,27,.b,.b,.b,11
+Croatia,Oct 2017,N,65,46,19,.b,.b,26,33,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Nov 2017,N,57,46,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Dec 2017,N,40,28,12,.b,.b,14,18,.b,.b,8,.b,.b,.b,6,.b
+Croatia,Jan 2018,N,56,49,7,.b,.b,19,26,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Feb 2018,N,46,36,10,.b,15,.b,17,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Mar 2018,N,59,43,16,.b,.b,13,32,.b,.b,.b,23,.b,.b,.b,9
+Croatia,Apr 2018,N,63,52,11,.b,.b,18,39,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,May 2018,N,62,48,14,.b,.b,24,32,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jun 2018,N,60,45,15,.b,.b,19,27,.b,.b,.b,20,.b,.b,.b,7
+Croatia,Jul 2018,N,57,42,15,.b,.b,23,24,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Aug 2018,N,63,45,18,.b,.b,24,32,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Sep 2018,N,55,42,13,.b,.b,20,26,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Oct 2018,N,43,30,13,.b,.b,14,22,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Nov 2018,N,49,37,12,.b,.b,17,19,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Dec 2018,N,45,34,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jan 2019,N,48,31,17,.b,.b,14,27,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Feb 2019,N,36,.b,.b,.b,.b,10,20,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Mar 2019,N,42,33,9,.b,.b,13,22,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Apr 2019,N,44,36,8,.b,.b,16,19,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,May 2019,N,50,41,9,.b,.b,19,18,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jun 2019,N,52,40,12,.b,.b,18,27,.b,.b,.b,21,.b,.b,.b,6
+Croatia,Jul 2019,N,48,36,12,.b,.b,21,21,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Aug 2019,N,59,47,12,.b,.b,17,27,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Sep 2019,N,62,54,8,.b,.b,18,33,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Oct 2019,N,43,.b,.b,.b,.b,19,18,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Nov 2019,N,38,28,10,.b,.b,12,17,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Dec 2019,N,41,27,14,.b,.b,10,22,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jan 2020,N,41,32,9,.b,.b,16,12,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Feb 2020,N,42,34,8,.b,.b,13,19,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Mar 2020,N,41,31,10,.b,9,.b,24,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Apr 2020,N,33,26,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,May 2020,N,47,36,11,.b,.b,13,23,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jun 2020,N,61,47,14,.b,.b,19,30,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jul 2020,N,51,38,13,.b,.b,20,20,.b,.b,14,.b,.b,.b,6,.b
+Croatia,Aug 2020,N,49,40,9,.b,.b,13,26,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Sep 2020,N,54,43,11,.b,.b,19,22,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Oct 2020,N,37,29,8,.b,.b,.b,20,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Nov 2020,N,52,.b,.b,.b,.b,15,24,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Dec 2020,N,52,39,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jan 2021,N,41,28,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Feb 2021,N,42,31,11,.b,.b,13,21,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Mar 2021,N,45,.b,.b,.b,.b,16,20,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Apr 2021,N,42,33,9,.b,.b,13,22,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,May 2021,N,56,39,17,.b,.b,26,21,.b,.b,.b,.b,.b,.b,.b,.b
+Croatia,Jun 2021,N,57,44,13,.b,.b,13,32,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Jan 2016,N,114,81,33,.b,.b,42,39,.b,.b,27,28,.b,.b,15,11
+Czech Republic,Feb 2016,N,99,81,18,.b,36,35,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Mar 2016,N,117,95,22,.b,.b,39,45,.b,.b,.b,33,.b,.b,.b,12
+Czech Republic,Apr 2016,N,130,111,19,.b,.b,50,47,.b,.b,43,.b,.b,.b,7,.b
+Czech Republic,May 2016,N,121,96,25,.b,.b,55,38,.b,.b,43,31,.b,.b,12,7
+Czech Republic,Jun 2016,N,121,97,24,8,25,40,48,.b,17,32,.b,.b,8,8,.b
+Czech Republic,Jul 2016,N,110,91,19,.b,.b,35,39,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Aug 2016,N,111,89,22,.b,41,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Sep 2016,N,107,84,23,.b,.b,39,42,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Oct 2016,N,95,78,17,.b,.b,35,32,.b,.b,.b,23,.b,.b,.b,9
+Czech Republic,Nov 2016,N,99,83,16,6,23,35,35,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Dec 2016,N,94,74,20,.b,.b,34,42,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Jan 2017,N,118,95,23,6,27,50,35,.b,.b,40,28,.b,.b,10,7
+Czech Republic,Feb 2017,N,102,79,23,.b,.b,40,34,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Mar 2017,N,111,85,26,.b,.b,47,34,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Apr 2017,N,122,87,35,.b,.b,42,50,.b,.b,32,35,.b,.b,10,15
+Czech Republic,May 2017,N,148,119,29,.b,.b,59,50,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Jun 2017,N,110,93,17,.b,35,37,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Jul 2017,N,100,81,19,.b,32,37,.b,.b,.b,31,.b,.b,.b,6,.b
+Czech Republic,Aug 2017,N,118,97,21,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Sep 2017,N,108,85,23,.b,.b,47,35,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Oct 2017,N,134,111,23,.b,.b,41,59,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Nov 2017,N,125,100,25,8,27,37,53,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Dec 2017,N,101,76,25,.b,.b,37,35,.b,.b,29,26,.b,.b,8,9
+Czech Republic,Jan 2018,N,124,100,24,.b,40,.b,46,.b,32,.b,.b,.b,8,.b,.b
+Czech Republic,Feb 2018,N,73,66,7,.b,.b,31,26,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Mar 2018,N,136,112,24,.b,.b,52,49,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Apr 2018,N,123,101,22,.b,.b,46,50,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,May 2018,N,111,98,13,.b,.b,39,39,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Jun 2018,N,112,89,23,.b,.b,.b,43,.b,.b,.b,33,.b,.b,.b,10
+Czech Republic,Jul 2018,N,129,107,22,.b,.b,43,45,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Aug 2018,N,123,97,26,.b,.b,40,44,.b,.b,33,32,.b,.b,7,12
+Czech Republic,Sep 2018,N,104,82,22,.b,.b,42,31,.b,.b,30,.b,.b,.b,12,.b
+Czech Republic,Oct 2018,N,129,97,32,.b,.b,51,50,.b,.b,41,38,.b,.b,10,12
+Czech Republic,Nov 2018,N,103,81,22,.b,.b,38,38,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Dec 2018,N,85,72,13,.b,.b,36,32,.b,.b,30,.b,.b,.b,6,.b
+Czech Republic,Jan 2019,N,91,70,21,.b,.b,.b,32,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Feb 2019,N,91,78,13,.b,.b,30,34,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Mar 2019,N,116,95,21,6,26,41,43,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Apr 2019,N,98,83,15,.b,.b,36,42,.b,.b,.b,33,.b,.b,.b,9
+Czech Republic,May 2019,N,116,90,26,.b,33,.b,48,.b,.b,.b,38,.b,.b,.b,10
+Czech Republic,Jun 2019,N,118,92,26,.b,.b,42,52,.b,.b,32,43,.b,.b,10,9
+Czech Republic,Jul 2019,N,112,89,23,.b,.b,34,56,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Aug 2019,N,94,74,20,.b,30,.b,36,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Sep 2019,N,116,87,29,7,24,38,47,.b,.b,26,38,.b,.b,12,9
+Czech Republic,Oct 2019,N,98,85,13,.b,.b,28,45,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Nov 2019,N,71,55,16,.b,.b,22,31,.b,.b,.b,21,.b,.b,.b,10
+Czech Republic,Dec 2019,N,70,51,19,.b,.b,29,20,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Jan 2020,N,103,81,22,.b,.b,34,36,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Feb 2020,N,94,79,15,.b,.b,34,40,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Mar 2020,N,117,102,15,.b,.b,41,45,.b,.b,35,.b,.b,.b,6,.b
+Czech Republic,Apr 2020,N,92,78,14,.b,.b,32,30,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,May 2020,N,84,67,17,.b,.b,30,37,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Jun 2020,N,129,108,21,.b,.b,45,60,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Jul 2020,N,107,86,21,.b,.b,36,40,.b,.b,.b,32,.b,.b,.b,8
+Czech Republic,Aug 2020,N,94,80,14,.b,.b,28,43,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Sep 2020,N,95,74,21,.b,.b,31,37,.b,.b,.b,.b,.b,.b,.b,.b
+Czech Republic,Oct 2020,N,112,92,20,.b,.b,42,50,.b,.b,.b,38,.b,.b,.b,12
+Czech Republic,Nov 2020,N,94,76,18,.b,.b,31,35,.b,.b,.b,28,.b,.b,.b,7
+Czech Republic,Dec 2020,N,103,86,17,.b,.b,39,38,.b,.b,30,.b,.b,.b,9,.b
+Denmark,Jan 2016,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Feb 2016,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Mar 2016,N,27,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Apr 2016,N,45,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,May 2016,N,53,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jun 2016,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jul 2016,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Aug 2016,N,68,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Sep 2016,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Oct 2016,N,40,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Nov 2016,N,52,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Dec 2016,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jan 2017,N,39,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Feb 2017,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Mar 2017,N,37,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Apr 2017,N,66,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,May 2017,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jun 2017,N,43,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jul 2017,N,38,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Aug 2017,N,41,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Sep 2017,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Oct 2017,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Nov 2017,N,60,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Dec 2017,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jan 2018,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Feb 2018,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Mar 2018,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Apr 2018,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,May 2018,N,64,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jun 2018,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jul 2018,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Aug 2018,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Sep 2018,N,43,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Oct 2018,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Nov 2018,N,43,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Dec 2018,N,33,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jan 2019,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Feb 2019,N,48,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Mar 2019,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Apr 2019,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,May 2019,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jun 2019,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jul 2019,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Aug 2019,N,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Sep 2019,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Oct 2019,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Nov 2019,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Dec 2019,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jan 2020,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Feb 2020,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Mar 2020,N,45,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Apr 2020,N,29,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,May 2020,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jun 2020,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Jul 2020,N,45,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Aug 2020,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Sep 2020,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Oct 2020,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Nov 2020,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Denmark,Dec 2020,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+England and Wales,Jan 2016,Y,400,308,92,8,142,173,77,6,109,136,57,2,33,37,20
+England and Wales,Feb 2016,Y,391,291,100,14,118,181,78,9,82,147,53,5,36,34,25
+England and Wales,Mar 2016,Y,420,320,100,18,123,196,83,14,97,146,63,4,26,50,20
+England and Wales,Apr 2016,Y,398,307,91,16,112,178,92,14,89,140,64,2,23,38,28
+England and Wales,May 2016,Y,447,335,112,13,144,192,98,10,114,134,77,3,30,58,21
+England and Wales,Jun 2016,Y,406,302,104,18,128,166,94,11,100,124,67,7,28,42,27
+England and Wales,Jul 2016,Y,456,345,111,17,137,185,117,11,110,137,87,6,27,48,30
+England and Wales,Aug 2016,Y,452,345,107,17,139,197,99,11,110,155,69,6,29,42,30
+England and Wales,Sep 2016,Y,375,271,104,7,120,149,99,4,85,106,76,3,35,43,23
+England and Wales,Oct 2016,Y,406,300,106,16,126,175,89,12,95,135,58,4,31,40,31
+England and Wales,Nov 2016,Y,411,316,95,16,123,176,96,9,95,138,74,7,28,38,22
+England and Wales,Dec 2016,Y,420,318,102,19,140,172,89,18,106,132,62,1,34,40,27
+England and Wales,Jan 2017,Y,456,333,123,18,149,212,77,13,109,162,49,5,40,50,28
+England and Wales,Feb 2017,Y,390,294,96,15,122,160,93,10,92,128,64,5,30,32,29
+England and Wales,Mar 2017,Y,462,347,115,15,152,186,109,9,117,144,77,6,35,42,32
+England and Wales,Apr 2017,Y,430,314,116,16,133,182,99,6,111,133,64,10,22,49,35
+England and Wales,May 2017,Y,487,372,115,22,172,180,113,14,133,144,81,8,39,36,32
+England and Wales,Jun 2017,Y,431,335,96,21,123,186,101,13,101,144,77,8,22,42,24
+England and Wales,Jul 2017,Y,413,307,106,14,149,171,79,12,114,128,53,2,35,43,26
+England and Wales,Aug 2017,Y,450,336,114,25,147,179,99,14,112,139,71,11,35,40,28
+England and Wales,Sep 2017,Y,404,317,87,19,122,168,95,17,102,132,66,2,20,36,29
+England and Wales,Oct 2017,Y,438,330,108,26,134,176,102,18,106,133,73,8,28,43,29
+England and Wales,Nov 2017,Y,436,351,85,17,134,187,98,8,117,151,75,9,17,36,23
+England and Wales,Dec 2017,Y,412,299,113,17,134,169,92,13,101,118,67,4,33,51,25
+England and Wales,Jan 2018,Y,488,365,123,21,144,190,133,13,115,138,99,8,29,52,34
+England and Wales,Feb 2018,Y,420,302,118,20,138,153,109,12,103,109,78,8,35,44,31
+England and Wales,Mar 2018,Y,439,315,124,15,138,180,106,8,97,135,75,7,41,45,31
+England and Wales,Apr 2018,Y,491,371,120,21,159,198,113,15,117,158,81,6,42,40,32
+England and Wales,May 2018,Y,498,391,107,18,168,199,113,13,129,163,86,5,39,36,27
+England and Wales,Jun 2018,Y,501,371,130,15,172,205,109,9,131,150,81,6,41,55,28
+England and Wales,Jul 2018,Y,512,393,119,9,171,227,105,9,129,181,74,0,42,46,31
+England and Wales,Aug 2018,Y,469,354,115,15,188,173,93,11,143,130,70,4,45,43,23
+England and Wales,Sep 2018,Y,445,327,118,16,136,183,110,8,108,136,75,8,28,47,35
+England and Wales,Oct 2018,Y,477,354,123,17,170,178,112,10,127,132,85,7,43,46,27
+England and Wales,Nov 2018,Y,508,403,105,19,165,211,113,14,123,176,90,5,42,35,23
+England and Wales,Dec 2018,Y,429,327,102,18,142,178,91,14,109,140,64,4,33,38,27
+England and Wales,Jan 2019,Y,504,392,112,13,156,197,138,9,123,158,102,4,33,39,36
+England and Wales,Feb 2019,Y,430,324,106,10,151,179,90,8,112,138,66,2,39,41,24
+England and Wales,Mar 2019,Y,510,381,129,24,164,203,119,18,132,147,84,6,32,56,35
+England and Wales,Apr 2019,Y,506,379,127,17,184,200,105,14,141,142,82,3,43,58,23
+England and Wales,May 2019,Y,497,356,141,15,170,203,109,9,125,148,74,6,45,55,35
+England and Wales,Jun 2019,Y,474,369,105,13,170,179,112,10,134,145,80,3,36,34,32
+England and Wales,Jul 2019,Y,478,384,94,15,180,183,100,13,151,139,81,2,29,44,19
+England and Wales,Aug 2019,Y,422,316,106,11,141,175,95,8,107,132,69,3,34,43,26
+England and Wales,Sep 2019,Y,466,347,119,18,154,189,105,16,113,144,74,2,41,45,31
+England and Wales,Oct 2019,Y,414,306,108,14,129,178,93,12,95,134,65,2,34,44,28
+England and Wales,Nov 2019,Y,407,302,105,15,135,152,105,12,103,112,75,3,32,40,30
+England and Wales,Dec 2019,Y,402,307,95,13,149,153,87,6,120,120,61,7,29,33,26
+England and Wales,Jan 2020,Y,456,354,102,16,154,179,107,10,120,137,87,6,34,42,20
+England and Wales,Feb 2020,Y,445,329,116,11,161,178,95,8,118,130,73,3,43,48,22
+England and Wales,Mar 2020,Y,513,366,147,22,177,209,105,14,120,151,81,8,57,58,24
+England and Wales,Apr 2020,Y,362,270,92,8,125,130,99,5,92,96,77,3,33,34,22
+England and Wales,May 2020,Y,415,305,110,15,118,180,102,10,91,130,74,5,27,50,28
+England and Wales,Jun 2020,Y,398,292,106,9,136,166,87,5,103,123,61,4,33,43,26
+England and Wales,Jul 2020,Y,428,318,110,12,133,184,99,6,105,139,68,6,28,45,31
+England and Wales,Aug 2020,Y,391,290,101,9,126,167,89,3,96,127,64,6,30,40,25
+England and Wales,Sep 2020,Y,335,259,76,8,112,134,81,5,89,103,62,3,23,31,19
+England and Wales,Oct 2020,Y,294,226,68,14,97,120,63,8,76,96,46,6,21,24,17
+England and Wales,Nov 2020,Y,245,189,56,4,68,113,60,3,50,90,46,1,18,23,14
+England and Wales,Dec 2020,Y,211,165,46,4,61,91,55,4,49,67,45,0,12,24,10
+Estonia,Jan 2016,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Feb 2016,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Mar 2016,N,18,11,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Apr 2016,N,19,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,May 2016,N,23,15,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jun 2016,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jul 2016,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Aug 2016,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Sep 2016,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Oct 2016,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Nov 2016,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Dec 2016,N,17,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jan 2017,N,22,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Feb 2017,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Mar 2017,N,18,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Apr 2017,N,22,15,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,May 2017,N,24,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jun 2017,N,26,20,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jul 2017,N,26,19,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Aug 2017,N,20,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Sep 2017,N,17,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Oct 2017,N,21,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Nov 2017,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Dec 2017,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jan 2018,N,17,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Feb 2018,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Mar 2018,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Apr 2018,N,18,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,May 2018,N,19,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jun 2018,N,22,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jul 2018,N,19,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Aug 2018,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Sep 2018,N,19,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Oct 2018,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Nov 2018,N,19,13,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Dec 2018,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jan 2019,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Feb 2019,N,16,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Mar 2019,N,21,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Apr 2019,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,May 2019,N,24,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jun 2019,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jul 2019,N,16,10,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Aug 2019,N,15,8,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Sep 2019,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Oct 2019,N,20,13,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Nov 2019,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Dec 2019,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jan 2020,N,21,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Feb 2020,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Mar 2020,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Apr 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,May 2020,N,25,16,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jun 2020,N,16,10,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jul 2020,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Aug 2020,N,31,25,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Sep 2020,N,21,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Oct 2020,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Nov 2020,N,16,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Dec 2020,N,17,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jan 2021,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Feb 2021,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Mar 2021,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Apr 2021,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,May 2021,N,18,12,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Estonia,Jun 2021,N,18,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany,Jan 2016,Y,872,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Feb 2016,Y,747,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Mar 2016,Y,877,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Apr 2016,Y,867,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,May 2016,Y,861,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jun 2016,Y,852,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jul 2016,Y,864,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Aug 2016,Y,803,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Sep 2016,Y,802,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Oct 2016,Y,824,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Nov 2016,Y,747,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Dec 2016,Y,722,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jan 2017,Y,793,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Feb 2017,Y,752,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Mar 2017,Y,850,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Apr 2017,Y,758,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,May 2017,Y,860,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jun 2017,Y,812,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jul 2017,Y,775,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Aug 2017,Y,789,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Sep 2017,Y,685,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Oct 2017,Y,740,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Nov 2017,Y,739,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Dec 2017,Y,682,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jan 2018,Y,858,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Feb 2018,Y,633,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Mar 2018,Y,832,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Apr 2018,Y,852,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,May 2018,Y,867,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jun 2018,Y,782,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jul 2018,Y,824,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Aug 2018,Y,757,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Sep 2018,Y,760,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Oct 2018,Y,786,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Nov 2018,Y,744,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Dec 2018,Y,701,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jan 2019,Y,776,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Feb 2019,Y,704,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Mar 2019,Y,765,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Apr 2019,Y,786,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,May 2019,Y,767,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jun 2019,Y,768,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jul 2019,Y,808,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Aug 2019,Y,778,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Sep 2019,Y,660,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Oct 2019,Y,760,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Nov 2019,Y,756,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Dec 2019,Y,713,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jan 2020,Y,761,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Feb 2020,Y,771,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Mar 2020,Y,772,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Apr 2020,Y,736,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,May 2020,Y,838,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jun 2020,Y,844,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Jul 2020,Y,810,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Aug 2020,Y,796,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Sep 2020,Y,754,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Oct 2020,Y,754,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Nov 2020,Y,730,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany,Dec 2020,Y,671,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Germany_Cologne and Leverkusen,Jan 2019,N,14,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Feb 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Mar 2019,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Apr 2019,N,14,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,May 2019,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Jun 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Jul 2019,N,12,.b,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Aug 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Sep 2019,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Oct 2019,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Nov 2019,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Dec 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Jan 2020,N,13,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Feb 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Mar 2020,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Apr 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,May 2020,N,15,.b,.b,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Jun 2020,N,13,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Jul 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Aug 2020,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Sep 2020,N,13,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Oct 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Nov 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Dec 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Jan 2021,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Feb 2021,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Mar 2021,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Apr 2021,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,May 2021,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Cologne and Leverkusen,Jun 2021,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Jan 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Feb 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Mar 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Apr 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,May 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Jun 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Jul 2018,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Aug 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Sep 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Oct 2018,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Nov 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Dec 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Jan 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Feb 2019,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Mar 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Apr 2019,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,May 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Jun 2019,N,14,.b,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Jul 2019,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Aug 2019,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Sep 2019,N,12,.b,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Oct 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Nov 2019,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Dec 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Jan 2020,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Feb 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Mar 2020,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Apr 2020,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,May 2020,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Jun 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Jul 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Aug 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Sep 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Oct 2020,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Nov 2020,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Frankfurt,Dec 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jan 2017,N,60,45,15,.b,.b,20,27,.b,.b,.b,18,.b,.b,.b,9
+Germany_Saxony,Feb 2017,N,52,44,8,.b,.b,14,27,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Mar 2017,N,63,50,13,.b,.b,14,36,.b,.b,.b,29,.b,.b,.b,7
+Germany_Saxony,Apr 2017,N,52,37,15,.b,.b,11,35,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,May 2017,N,70,58,12,.b,.b,22,38,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jun 2017,N,65,49,16,.b,.b,19,37,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jul 2017,N,58,41,17,.b,.b,15,37,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Aug 2017,N,51,38,13,.b,.b,17,27,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Sep 2017,N,39,31,8,.b,.b,17,16,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Oct 2017,N,60,51,9,.b,.b,17,34,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Nov 2017,N,47,34,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Dec 2017,N,56,40,16,.b,.b,.b,32,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jan 2018,N,59,45,14,.b,.b,17,36,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Feb 2018,N,49,32,17,.b,.b,12,28,.b,.b,.b,18,.b,.b,.b,10
+Germany_Saxony,Mar 2018,N,71,57,14,.b,.b,20,36,.b,.b,.b,28,.b,.b,.b,8
+Germany_Saxony,Apr 2018,N,73,56,17,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,May 2018,N,73,60,13,.b,.b,17,41,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jun 2018,N,57,37,20,.b,.b,17,31,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jul 2018,N,56,42,14,.b,.b,20,28,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Aug 2018,N,48,35,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Sep 2018,N,45,31,14,.b,.b,8,30,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Oct 2018,N,49,36,13,.b,.b,.b,31,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Nov 2018,N,46,35,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Dec 2018,N,48,38,10,.b,.b,13,25,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jan 2019,N,51,42,9,.b,.b,14,25,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Feb 2019,N,58,47,11,.b,.b,13,32,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Mar 2019,N,51,40,11,.b,.b,15,24,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Apr 2019,N,56,41,15,.b,.b,16,30,.b,.b,.b,23,.b,.b,.b,7
+Germany_Saxony,May 2019,N,50,37,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jun 2019,N,51,37,14,.b,.b,16,24,.b,.b,10,.b,.b,.b,6,.b
+Germany_Saxony,Jul 2019,N,70,52,18,.b,.b,21,41,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Aug 2019,N,63,50,13,.b,16,.b,32,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Sep 2019,N,41,30,11,.b,.b,.b,23,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Oct 2019,N,56,41,15,.b,.b,23,24,.b,.b,.b,15,.b,.b,.b,9
+Germany_Saxony,Nov 2019,N,63,43,20,.b,.b,24,28,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Dec 2019,N,43,35,8,.b,.b,.b,23,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jan 2020,N,67,48,19,.b,.b,18,36,.b,.b,.b,24,.b,.b,.b,12
+Germany_Saxony,Feb 2020,N,48,33,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Mar 2020,N,58,45,13,.b,.b,19,28,.b,.b,.b,22,.b,.b,.b,6
+Germany_Saxony,Apr 2020,N,51,41,10,.b,.b,20,20,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,May 2020,N,53,40,13,.b,.b,15,29,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jun 2020,N,52,43,9,.b,.b,16,28,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jul 2020,N,65,48,17,.b,.b,21,31,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Aug 2020,N,53,42,11,.b,10,.b,32,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Sep 2020,N,43,37,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Oct 2020,N,53,45,8,.b,.b,12,35,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Nov 2020,N,47,39,8,.b,.b,11,25,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Dec 2020,N,60,47,13,.b,.b,18,36,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Jan 2021,N,44,35,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,Feb 2021,N,69,52,17,.b,.b,23,33,.b,.b,.b,24,.b,.b,.b,9
+Germany_Saxony,Mar 2021,N,50,35,15,.b,.b,13,28,.b,.b,.b,19,.b,.b,.b,9
+Germany_Saxony,Apr 2021,N,59,43,16,.b,.b,15,35,.b,.b,.b,.b,.b,.b,.b,.b
+Germany_Saxony,May 2021,N,71,48,23,.b,.b,19,38,.b,.b,.b,24,.b,.b,.b,14
+Germany_Saxony,Jun 2021,N,53,34,19,.b,.b,17,30,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jan 2016,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Feb 2016,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Mar 2016,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Apr 2016,N,13,.b,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,May 2016,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jun 2016,N,14,7,7,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jul 2016,N,13,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Aug 2016,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Sep 2016,N,19,10,9,.b,.b,10,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Oct 2016,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Nov 2016,N,14,.b,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Dec 2016,N,14,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jan 2017,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Feb 2017,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Mar 2017,N,16,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Apr 2017,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,May 2017,N,18,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jun 2017,N,19,13,6,.b,.b,.b,10,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jul 2017,N,16,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Aug 2017,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Sep 2017,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Oct 2017,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Nov 2017,N,12,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Dec 2017,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jan 2018,N,15,9,6,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Feb 2018,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Mar 2018,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Apr 2018,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,May 2018,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jun 2018,N,23,15,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jul 2018,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Aug 2018,N,14,8,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Sep 2018,N,24,15,9,.b,.b,7,9,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Oct 2018,N,19,.b,.b,.b,.b,.b,11,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Nov 2018,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Dec 2018,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jan 2019,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Feb 2019,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Mar 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Apr 2019,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,May 2019,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jun 2019,N,15,.b,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jul 2019,N,17,.b,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Aug 2019,N,12,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Sep 2019,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Oct 2019,N,15,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Nov 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Dec 2019,N,15,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jan 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Feb 2020,N,12,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Mar 2020,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Apr 2020,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,May 2020,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jun 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jul 2020,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Aug 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Sep 2020,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Oct 2020,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Nov 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Dec 2020,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jan 2021,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Feb 2021,N,14,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Mar 2021,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Apr 2021,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,May 2021,N,16,10,6,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Milan,Jun 2021,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jan 2016,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Feb 2016,N,13,.b,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Mar 2016,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Apr 2016,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,May 2016,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jun 2016,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jul 2016,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Aug 2016,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Sep 2016,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Oct 2016,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Nov 2016,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Dec 2016,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jan 2017,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Feb 2017,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Mar 2017,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Apr 2017,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,May 2017,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jun 2017,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jul 2017,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Aug 2017,N,13,.b,.b,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Sep 2017,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Oct 2017,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Nov 2017,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Dec 2017,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jan 2018,N,15,.b,.b,.b,.b,6,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Feb 2018,N,13,7,6,.b,.b,7,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Mar 2018,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Apr 2018,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,May 2018,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jun 2018,N,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jul 2018,N,11,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Aug 2018,N,14,.b,.b,.b,.b,.b,8,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Sep 2018,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Oct 2018,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Nov 2018,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Dec 2018,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jan 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Feb 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Mar 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Apr 2019,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,May 2019,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jun 2019,N,9,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jul 2019,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Aug 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Sep 2019,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Oct 2019,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Nov 2019,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Dec 2019,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jan 2020,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Feb 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Mar 2020,N,8,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Apr 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,May 2020,N,12,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jun 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jul 2020,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Aug 2020,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Sep 2020,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Oct 2020,N,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Nov 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Dec 2020,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jan 2021,N,7,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Feb 2021,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Mar 2021,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Apr 2021,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,May 2021,N,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Italy_Udine and Pordenone,Jun 2021,N,6,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Japan,Jan 2016,N,1729,1173,556,51,424,597,655,39,315,420,397,12,109,177,258
+Japan,Feb 2016,N,1722,1194,528,51,401,565,701,37,280,422,452,14,121,143,249
+Japan,Mar 2016,N,1578,1075,503,50,328,526,669,32,247,364,427,18,81,162,242
+Japan,Apr 2016,N,1480,1011,469,31,352,494,599,22,250,355,381,9,102,139,218
+Japan,May 2016,N,1614,1100,514,31,364,570,641,20,257,416,401,11,107,154,240
+Japan,Jun 2016,N,1973,1360,613,23,456,695,794,16,330,517,493,7,126,178,301
+Japan,Jul 2016,N,1749,1197,552,51,420,574,696,34,309,417,432,17,111,157,264
+Japan,Aug 2016,N,1917,1313,604,42,423,625,824,31,308,449,523,11,115,176,301
+Japan,Sep 2016,N,1713,1169,544,33,386,593,698,21,288,432,425,12,98,161,273
+Japan,Oct 2016,N,1742,1191,551,38,407,531,758,26,304,387,468,12,103,144,290
+Japan,Nov 2016,N,1586,1090,496,46,372,511,654,28,259,377,424,18,113,134,230
+Japan,Dec 2016,N,1645,1118,527,48,381,529,679,32,277,361,440,16,104,168,239
+Japan,Jan 2017,N,1667,1169,498,51,391,564,655,35,283,437,408,16,108,127,247
+Japan,Feb 2017,N,1525,1058,467,39,388,506,584,27,288,366,370,12,100,140,214
+Japan,Mar 2017,N,1475,1010,465,33,323,522,595,26,236,372,374,7,87,150,221
+Japan,Apr 2017,N,1520,1045,475,44,358,506,606,31,269,363,379,13,89,143,227
+Japan,May 2017,N,1780,1214,566,40,415,599,723,28,287,434,462,12,128,165,261
+Japan,Jun 2017,N,1780,1210,570,49,403,596,728,33,285,422,466,16,118,174,262
+Japan,Jul 2017,N,1885,1289,596,37,432,608,799,23,322,432,506,14,110,176,293
+Japan,Aug 2017,N,1729,1175,554,45,373,573,733,32,260,413,467,13,113,160,266
+Japan,Sep 2017,N,1681,1138,543,41,362,573,700,24,268,409,432,17,94,164,268
+Japan,Oct 2017,N,1717,1180,537,56,390,569,697,38,296,390,452,18,94,179,245
+Japan,Nov 2017,N,1700,1198,502,53,405,561,677,42,285,408,459,11,120,153,218
+Japan,Dec 2017,N,1305,926,379,35,301,472,493,27,233,338,325,8,68,134,168
+Japan,Jan 2018,N,1502,1029,473,42,350,510,597,30,265,342,391,12,85,168,206
+Japan,Feb 2018,N,1484,1013,471,36,362,520,564,22,256,369,365,14,106,151,199
+Japan,Mar 2018,N,1830,1310,520,40,402,655,732,19,307,495,488,21,95,160,244
+Japan,Apr 2018,N,1661,1118,543,47,377,528,702,30,271,373,438,17,106,155,264
+Japan,May 2018,N,1714,1148,566,55,372,596,686,36,262,419,427,19,110,177,259
+Japan,Jun 2018,N,1616,1106,510,60,357,517,678,40,270,360,432,20,87,157,246
+Japan,Jul 2018,N,1598,1088,510,53,366,533,638,27,244,386,424,26,122,147,214
+Japan,Aug 2018,N,1578,1039,539,53,363,511,646,34,253,344,404,19,110,167,242
+Japan,Sep 2018,N,1604,1089,515,48,357,531,658,28,264,388,400,20,93,143,258
+Japan,Oct 2018,N,1654,1141,513,41,408,538,662,23,299,396,418,18,109,142,244
+Japan,Nov 2018,N,1512,1007,505,34,345,506,624,20,250,349,385,14,95,157,239
+Japan,Dec 2018,N,1516,1037,479,49,333,522,610,29,260,363,383,20,73,159,227
+Japan,Jan 2019,N,1701,1195,506,62,443,573,621,38,330,435,391,24,113,138,230
+Japan,Feb 2019,N,1615,1122,493,57,383,561,611,40,259,418,402,17,124,143,209
+Japan,Mar 2019,N,1850,1328,522,50,423,633,732,31,321,469,495,19,102,164,237
+Japan,Apr 2019,N,1776,1249,527,70,398,584,721,46,297,433,470,24,101,151,251
+Japan,May 2019,N,1840,1290,550,64,415,630,728,43,313,455,477,21,102,175,251
+Japan,Jun 2019,N,1628,1131,497,51,368,564,641,34,273,412,408,17,95,152,233
+Japan,Jul 2019,N,1761,1206,555,46,413,573,726,28,298,420,457,18,115,153,269
+Japan,Aug 2019,N,1570,1109,461,49,357,522,638,38,258,377,433,11,99,145,205
+Japan,Sep 2019,N,1661,1162,499,78,357,545,679,49,268,382,461,29,89,163,218
+Japan,Oct 2019,N,1541,1074,467,49,326,537,627,36,217,401,419,13,109,136,208
+Japan,Nov 2019,N,1595,1069,526,43,350,573,625,28,243,397,398,15,107,176,227
+Japan,Dec 2019,N,1421,976,445,37,353,494,536,30,247,344,354,7,106,150,182
+Japan,Jan 2020,N,1695,1200,495,56,384,581,667,35,286,425,447,21,98,156,220
+Japan,Feb 2020,N,1463,1029,434,51,360,490,557,26,257,370,373,25,103,120,184
+Japan,Mar 2020,N,1771,1261,510,52,429,624,664,30,315,466,449,22,114,158,215
+Japan,Apr 2020,N,1463,1018,445,47,317,465,630,31,234,328,421,16,83,137,209
+Japan,May 2020,N,1565,1078,487,50,391,481,638,35,287,348,404,15,104,133,234
+Japan,Jun 2020,N,1580,1060,520,72,352,492,660,44,244,342,427,28,108,150,233
+Japan,Jul 2020,N,1833,1179,654,62,446,581,743,39,288,397,454,23,158,184,289
+Japan,Aug 2020,N,1913,1236,677,96,487,617,711,52,332,400,450,44,155,217,261
+Japan,Sep 2020,N,1914,1241,673,92,499,614,704,56,338,403,440,36,161,211,264
+Japan,Oct 2020,N,2210,1334,876,66,566,774,803,45,344,491,453,21,222,283,350
+Japan,Nov 2020,N,1869,1228,641,81,446,642,695,47,310,424,444,34,136,218,251
+Japan,Dec 2020,N,1607,1030,577,52,402,555,594,26,252,382,366,26,150,173,228
+Japan,Jan 2021,N,1768,1191,577,73,451,644,597,48,304,438,399,25,147,206,198
+Japan,Feb 2021,N,1660,1117,543,59,439,554,607,33,315,367,401,26,124,187,206
+Japan,Mar 2021,N,1996,1319,677,61,481,719,730,37,322,504,451,24,159,215,279
+Japan,Apr 2021,N,1794,1190,604,64,462,597,667,40,324,412,410,24,138,185,257
+Japan,May 2021,N,1773,1165,608,75,431,573,690,41,293,410,417,34,138,163,273
+Japan,Jun 2021,N,1698,1103,595,64,421,575,636,31,278,398,394,33,143,177,242
+Mexico,Jan 2016,Y,442,354,88,83,209,106,42,48,179,84,41,35,30,22,1
+Mexico,Feb 2016,Y,460,370,90,72,219,109,58,42,186,90,50,30,33,19,8
+Mexico,Mar 2016,Y,526,416,110,102,250,118,53,63,205,96,49,39,45,22,4
+Mexico,Apr 2016,Y,590,484,106,97,299,135,55,64,254,112,50,33,45,23,5
+Mexico,May 2016,Y,616,499,117,113,307,142,51,74,260,118,44,39,47,24,7
+Mexico,Jun 2016,Y,544,436,107,82,269,130,52,57,217,108,45,25,52,22,7
+Mexico,Jul 2016,Y,565,472,93,80,279,140,60,46,240,123,57,34,39,17,3
+Mexico,Aug 2016,Y,542,434,108,85,283,128,41,60,234,98,37,25,49,30,4
+Mexico,Sep 2016,Y,514,429,85,75,249,131,57,55,213,110,49,20,36,21,8
+Mexico,Oct 2016,Y,552,450,102,65,279,141,57,44,231,116,50,21,48,25,7
+Mexico,Nov 2016,Y,478,390,87,69,250,117,39,43,212,97,37,26,38,20,2
+Mexico,Dec 2016,Y,541,447,94,79,261,138,58,52,219,123,48,27,42,15,10
+Mexico,Jan 2017,Y,531,427,104,85,266,115,55,58,217,93,51,27,49,22,4
+Mexico,Feb 2017,Y,502,392,110,84,252,122,41,59,194,100,36,25,58,22,5
+Mexico,Mar 2017,Y,518,414,104,81,251,128,54,55,214,96,45,26,37,32,9
+Mexico,Apr 2017,Y,572,469,102,93,276,142,55,62,231,125,45,31,44,17,10
+Mexico,May 2017,Y,634,522,111,102,350,130,46,71,298,109,41,31,52,21,5
+Mexico,Jun 2017,Y,587,459,127,100,283,140,54,62,228,117,44,38,55,23,10
+Mexico,Jul 2017,Y,574,453,121,70,286,157,55,43,230,126,48,27,56,31,7
+Mexico,Aug 2017,Y,588,480,108,74,313,132,64,51,257,117,52,23,56,15,12
+Mexico,Sep 2017,Y,521,446,75,72,243,130,66,54,211,112,60,18,32,18,6
+Mexico,Oct 2017,Y,524,432,92,80,266,133,40,54,224,116,35,26,42,17,5
+Mexico,Nov 2017,Y,490,397,93,82,244,115,45,56,199,97,41,26,45,18,4
+Mexico,Dec 2017,Y,518,432,86,81,263,130,39,61,223,109,36,20,40,21,3
+Mexico,Jan 2018,Y,472,392,80,80,243,102,37,63,201,88,31,17,42,14,6
+Mexico,Feb 2018,Y,498,408,90,74,262,108,47,50,218,92,41,24,44,16,6
+Mexico,Mar 2018,Y,577,475,102,63,312,137,58,44,257,115,52,19,55,22,6
+Mexico,Apr 2018,Y,641,518,123,100,315,150,67,67,259,126,59,33,56,24,8
+Mexico,May 2018,Y,649,530,119,114,317,162,49,74,258,146,45,40,59,16,4
+Mexico,Jun 2018,Y,646,516,130,98,318,161,64,64,264,126,57,34,54,35,7
+Mexico,Jul 2018,Y,587,472,113,81,304,143,50,49,251,121,45,32,53,22,5
+Mexico,Aug 2018,Y,593,485,107,85,288,167,45,58,232,148,40,27,56,19,5
+Mexico,Sep 2018,Y,526,430,96,75,277,120,48,48,229,104,43,27,48,16,5
+Mexico,Oct 2018,Y,569,447,122,89,276,146,50,58,220,117,44,31,56,29,6
+Mexico,Nov 2018,Y,522,421,101,83,264,120,47,56,214,104,41,27,50,16,6
+Mexico,Dec 2018,Y,528,446,82,87,249,146,38,56,218,133,32,31,31,13,6
+Mexico,Jan 2019,Y,521,429,92,77,257,126,56,48,222,108,46,29,35,18,10
+Mexico,Feb 2019,Y,475,392,83,88,245,100,37,61,206,86,34,27,39,14,3
+Mexico,Mar 2019,Y,576,449,127,92,290,125,62,54,229,102,57,38,61,23,5
+Mexico,Apr 2019,Y,609,506,103,75,328,144,58,51,269,132,50,24,59,12,8
+Mexico,May 2019,Y,653,544,109,82,343,163,60,62,288,132,58,20,55,31,2
+Mexico,Jun 2019,Y,618,502,115,97,304,151,60,66,256,122,53,31,48,29,7
+Mexico,Jul 2019,Y,613,496,117,81,314,160,55,54,270,125,46,27,44,35,9
+Mexico,Aug 2019,Y,675,565,109,81,367,168,52,55,310,144,49,26,56,24,3
+Mexico,Sep 2019,Y,633,493,138,97,319,162,49,64,243,137,43,33,75,24,6
+Mexico,Oct 2019,Y,604,494,110,85,311,157,49,60,256,132,44,25,55,25,5
+Mexico,Nov 2019,Y,626,523,103,96,319,155,51,60,276,133,49,36,43,22,2
+Mexico,Dec 2019,Y,620,513,107,77,344,139,53,60,285,116,45,17,59,23,8
+Mexico,Jan 2020,Y,612,506,106,98,300,151,59,64,257,131,51,34,43,20,8
+Mexico,Feb 2020,Y,554,452,102,92,282,126,49,64,236,107,40,28,46,19,9
+Mexico,Mar 2020,Y,724,587,135,113,389,158,58,71,321,133,57,41,67,25,1
+Mexico,Apr 2020,Y,602,477,124,98,293,154,47,62,240,127,38,36,52,27,9
+Mexico,May 2020,Y,649,545,104,100,312,159,71,69,271,136,63,31,41,23,8
+Mexico,Jun 2020,Y,707,591,115,82,370,175,73,56,310,152,67,26,60,23,6
+Mexico,Jul 2020,Y,705,574,131,90,356,166,78,56,295,144,64,34,61,22,14
+Mexico,Aug 2020,Y,682,569,113,87,362,151,77,59,302,134,69,28,60,17,8
+Mexico,Sep 2020,Y,712,580,132,98,361,171,76,64,306,137,68,34,55,34,8
+Mexico,Oct 2020,Y,664,551,113,87,340,169,61,61,289,145,52,26,51,24,9
+Mexico,Nov 2020,Y,633,500,133,112,307,140,67,64,252,122,57,48,55,18,10
+Mexico,Dec 2020,Y,652,517,131,103,328,146,70,55,268,128,63,48,57,18,7
+Netherlands,Jan 2016,Y,171,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Feb 2016,Y,141,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Mar 2016,Y,191,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Apr 2016,Y,143,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,May 2016,Y,171,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jun 2016,Y,146,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jul 2016,Y,163,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Aug 2016,Y,153,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Sep 2016,Y,144,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Oct 2016,Y,174,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Nov 2016,Y,148,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Dec 2016,Y,148,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jan 2017,Y,185,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Feb 2017,Y,165,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Mar 2017,Y,176,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Apr 2017,Y,144,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,May 2017,Y,159,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jun 2017,Y,163,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jul 2017,Y,154,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Aug 2017,Y,144,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Sep 2017,Y,158,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Oct 2017,Y,148,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Nov 2017,Y,156,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Dec 2017,Y,165,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jan 2018,Y,153,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Feb 2018,Y,143,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Mar 2018,Y,152,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Apr 2018,Y,170,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,May 2018,Y,144,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jun 2018,Y,147,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jul 2018,Y,169,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Aug 2018,Y,153,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Sep 2018,Y,138,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Oct 2018,Y,160,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Nov 2018,Y,151,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Dec 2018,Y,149,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jan 2019,Y,175,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Feb 2019,Y,152,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Mar 2019,Y,143,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Apr 2019,Y,163,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,May 2019,Y,142,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jun 2019,Y,138,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jul 2019,Y,161,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Aug 2019,Y,146,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Sep 2019,Y,159,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Oct 2019,Y,146,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Nov 2019,Y,138,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Dec 2019,Y,148,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jan 2020,Y,179,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Feb 2020,Y,141,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Mar 2020,Y,146,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Apr 2020,Y,140,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,May 2020,Y,155,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jun 2020,Y,153,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jul 2020,Y,170,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Aug 2020,Y,172,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Sep 2020,Y,155,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Oct 2020,Y,138,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Nov 2020,Y,137,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Dec 2020,Y,137,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Jan 2021,Y,159,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Feb 2021,Y,149,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Netherlands,Mar 2021,Y,167,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+New Zealand,Jan 2016,N,52,39,13,.b,23,19,.b,.b,.b,13,.b,.b,.b,6,.b
+New Zealand,Feb 2016,N,43,31,12,.b,16,17,.b,.b,10,.b,.b,.b,6,.b,.b
+New Zealand,Mar 2016,N,45,39,6,.b,22,12,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Apr 2016,N,50,37,13,.b,25,13,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,May 2016,N,53,37,16,6,15,22,10,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jun 2016,N,46,35,11,.b,16,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jul 2016,N,52,36,16,.b,21,18,.b,.b,12,.b,.b,.b,9,.b,.b
+New Zealand,Aug 2016,N,57,38,19,7,28,16,6,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Sep 2016,N,44,34,10,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Oct 2016,N,48,34,14,.b,18,19,.b,.b,.b,12,.b,.b,.b,7,.b
+New Zealand,Nov 2016,N,45,35,10,6,9,18,12,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Dec 2016,N,48,37,11,6,13,15,14,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jan 2017,N,52,42,10,.b,19,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Feb 2017,N,40,29,11,.b,16,14,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Mar 2017,N,52,45,7,.b,21,18,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Apr 2017,N,41,30,11,.b,18,17,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,May 2017,N,52,39,13,.b,25,16,.b,.b,18,.b,.b,.b,7,.b,.b
+New Zealand,Jun 2017,N,50,38,12,6,19,14,11,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jul 2017,N,48,37,11,.b,20,20,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Aug 2017,N,68,46,22,10,23,22,13,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Sep 2017,N,63,42,21,.b,25,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Oct 2017,N,49,36,13,.b,18,.b,15,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Nov 2017,N,63,46,17,9,27,18,9,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Dec 2017,N,57,39,18,6,25,17,9,.b,19,.b,.b,.b,6,.b,.b
+New Zealand,Jan 2018,N,52,36,16,.b,19,18,.b,.b,.b,9,.b,.b,.b,9,.b
+New Zealand,Feb 2018,N,51,38,13,.b,18,18,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Mar 2018,N,60,41,19,.b,17,28,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Apr 2018,N,41,31,10,.b,13,.b,14,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,May 2018,N,55,37,18,.b,21,24,.b,.b,.b,15,.b,.b,.b,9,.b
+New Zealand,Jun 2018,N,62,45,17,.b,18,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jul 2018,N,55,39,16,10,19,16,10,.b,.b,10,.b,.b,.b,6,.b
+New Zealand,Aug 2018,N,40,27,13,11,15,8,6,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Sep 2018,N,61,43,18,8,20,21,12,.b,14,.b,.b,.b,6,.b,.b
+New Zealand,Oct 2018,N,56,47,9,.b,27,14,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Nov 2018,N,46,30,16,.b,24,14,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Dec 2018,N,49,37,12,6,18,16,9,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jan 2019,N,63,42,21,7,33,17,6,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Feb 2019,N,48,33,15,.b,14,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Mar 2019,N,51,38,13,8,17,19,7,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Apr 2019,N,37,23,14,.b,18,.b,9,.b,11,.b,.b,.b,7,.b,.b
+New Zealand,May 2019,N,49,36,13,.b,26,12,.b,.b,20,.b,.b,.b,6,.b,.b
+New Zealand,Jun 2019,N,82,64,18,8,26,36,12,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jul 2019,N,48,34,14,7,17,13,11,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Aug 2019,N,48,36,12,.b,22,15,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Sep 2019,N,50,40,10,7,19,18,6,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Oct 2019,N,63,53,10,6,24,21,12,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Nov 2019,N,66,47,19,8,31,15,12,.b,.b,8,.b,.b,.b,7,.b
+New Zealand,Dec 2019,N,56,35,21,7,21,19,9,.b,14,13,.b,.b,7,6,.b
+New Zealand,Jan 2020,N,61,44,17,.b,19,26,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Feb 2020,N,54,36,18,8,22,16,8,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Mar 2020,N,50,41,9,.b,20,16,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Apr 2020,N,39,26,13,.b,20,11,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,May 2020,N,54,44,10,.b,21,.b,16,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jun 2020,N,39,26,13,.b,20,9,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jul 2020,N,49,39,10,.b,17,15,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Aug 2020,N,53,39,14,6,23,16,8,.b,15,.b,.b,.b,8,.b,.b
+New Zealand,Sep 2020,N,39,32,7,.b,16,14,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Oct 2020,N,52,41,11,.b,24,17,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Nov 2020,N,48,35,13,7,17,18,6,.b,10,.b,.b,.b,7,.b,.b
+New Zealand,Dec 2020,N,53,41,12,.b,28,13,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jan 2021,N,51,41,10,9,20,14,8,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Feb 2021,N,52,44,8,.b,23,17,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Mar 2021,N,57,40,17,.b,27,18,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Apr 2021,N,56,44,12,.b,32,17,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,May 2021,N,53,39,14,.b,18,18,.b,.b,.b,.b,.b,.b,.b,.b,.b
+New Zealand,Jun 2021,N,44,37,7,.b,18,12,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Norway,Jan 2016,N,60,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Feb 2016,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Mar 2016,N,42,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Apr 2016,N,57,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,May 2016,N,57,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jun 2016,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jul 2016,N,45,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Aug 2016,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Sep 2016,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Oct 2016,N,53,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Nov 2016,N,52,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Dec 2016,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jan 2017,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Feb 2017,N,45,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Mar 2017,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Apr 2017,N,58,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,May 2017,N,57,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jun 2017,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jul 2017,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Aug 2017,N,46,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Sep 2017,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Oct 2017,N,51,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Nov 2017,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Dec 2017,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jan 2018,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Feb 2018,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Mar 2018,N,64,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Apr 2018,N,69,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,May 2018,N,73,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jun 2018,N,48,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jul 2018,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Aug 2018,N,60,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Sep 2018,N,52,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Oct 2018,N,52,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Nov 2018,N,64,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Dec 2018,N,41,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jan 2019,N,59,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Feb 2019,N,47,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Mar 2019,N,65,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Apr 2019,N,41,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,May 2019,N,60,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jun 2019,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jul 2019,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Aug 2019,N,54,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Sep 2019,N,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Oct 2019,N,67,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Nov 2019,N,44,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Dec 2019,N,50,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jan 2020,N,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Feb 2020,N,56,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Mar 2020,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Apr 2020,N,40,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,May 2020,N,55,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jun 2020,N,63,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Jul 2020,N,49,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Aug 2020,N,67,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Sep 2020,N,41,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Oct 2020,N,67,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Nov 2020,N,45,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Norway,Dec 2020,N,39,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Peru,Jan 2017,Y,33,25,8,11,14,5,3,7,10,5,3,4,4,0,0
+Peru,Feb 2017,Y,41,31,10,12,16,10,3,3,16,9,3,9,0,1,0
+Peru,Mar 2017,Y,28,15,13,5,13,7,3,0,10,3,2,5,3,4,1
+Peru,Apr 2017,Y,40,27,13,10,15,3,12,4,10,1,12,6,5,2,0
+Peru,May 2017,Y,37,23,14,11,9,12,5,4,6,9,4,7,3,3,1
+Peru,Jun 2017,Y,42,29,13,13,12,10,7,6,9,8,6,7,3,2,1
+Peru,Jul 2017,Y,33,20,13,8,18,4,3,3,11,3,3,5,7,1,0
+Peru,Aug 2017,Y,40,28,12,9,21,7,3,3,17,6,2,6,4,1,1
+Peru,Sep 2017,Y,36,31,5,12,16,3,5,9,16,2,4,3,0,1,1
+Peru,Oct 2017,Y,42,33,9,8,22,7,5,4,18,6,5,4,4,1,0
+Peru,Nov 2017,Y,46,29,17,9,21,10,5,2,14,8,4,7,7,2,1
+Peru,Dec 2017,Y,43,30,13,7,18,10,8,3,13,7,7,4,5,3,1
+Peru,Jan 2018,Y,44,33,11,11,24,7,2,5,19,7,2,6,5,0,0
+Peru,Feb 2018,Y,39,27,12,8,18,5,8,6,10,4,7,2,8,1,1
+Peru,Mar 2018,Y,46,29,17,11,24,5,6,4,17,3,5,7,7,2,1
+Peru,Apr 2018,Y,35,24,11,7,19,5,4,6,11,3,4,1,8,2,0
+Peru,May 2018,Y,36,29,7,5,18,9,4,3,16,8,2,2,2,1,2
+Peru,Jun 2018,Y,39,29,10,12,19,4,4,6,17,3,3,6,2,1,1
+Peru,Jul 2018,Y,53,40,13,10,27,6,10,4,22,6,8,6,5,0,2
+Peru,Aug 2018,Y,46,33,13,12,16,9,9,7,11,7,8,5,5,2,1
+Peru,Sep 2018,Y,46,35,11,7,24,8,7,2,20,6,7,5,4,2,0
+Peru,Oct 2018,Y,63,38,25,19,24,13,7,10,11,11,6,9,13,2,1
+Peru,Nov 2018,Y,55,38,17,12,27,7,8,6,20,6,5,6,7,1,3
+Peru,Dec 2018,Y,69,47,22,20,31,13,5,10,22,11,4,10,9,2,1
+Peru,Jan 2019,Y,41,30,11,8,17,10,6,4,15,7,4,4,2,3,2
+Peru,Feb 2019,Y,56,40,16,13,27,13,3,9,18,11,2,4,9,2,1
+Peru,Mar 2019,Y,55,35,20,10,27,5,13,3,19,2,11,7,8,3,2
+Peru,Apr 2019,Y,61,40,21,19,28,10,4,11,17,10,2,8,11,0,2
+Peru,May 2019,Y,56,38,18,14,17,17,8,5,11,16,6,9,6,1,2
+Peru,Jun 2019,Y,46,35,11,7,22,11,6,6,13,10,6,1,9,1,0
+Peru,Jul 2019,Y,61,45,16,7,31,17,6,2,21,16,6,5,10,1,0
+Peru,Aug 2019,Y,42,32,10,10,20,5,7,8,13,5,6,2,7,0,1
+Peru,Sep 2019,Y,56,32,24,17,22,13,4,8,8,12,4,9,14,1,0
+Peru,Oct 2019,Y,53,35,18,12,24,12,5,4,16,11,4,8,8,1,1
+Peru,Nov 2019,Y,54,38,16,8,23,14,9,3,18,10,7,5,5,4,2
+Peru,Dec 2019,Y,55,34,21,14,18,11,12,5,12,8,9,9,6,3,3
+Peru,Jan 2020,Y,68,50,18,17,30,14,7,7,27,9,7,10,3,5,0
+Peru,Feb 2020,Y,54,39,15,11,24,8,11,4,18,6,11,7,6,2,0
+Peru,Mar 2020,Y,46,32,14,16,13,11,6,6,13,8,5,10,0,3,1
+Peru,Apr 2020,Y,29,17,12,13,6,5,5,4,5,4,4,9,1,1,1
+Peru,May 2020,Y,55,43,12,20,11,12,11,13,9,10,10,7,2,2,1
+Peru,Jun 2020,Y,52,41,11,16,12,14,10,10,11,11,9,6,1,3,1
+Peru,Jul 2020,Y,46,32,14,10,17,7,12,3,12,6,11,7,5,1,1
+Peru,Aug 2020,Y,49,36,13,14,13,12,10,8,10,8,10,6,3,4,0
+Peru,Sep 2020,Y,42,32,10,11,19,9,3,8,15,7,2,3,4,2,1
+Peru,Oct 2020,Y,52,40,12,9,24,9,10,3,19,8,10,6,5,1,0
+Peru,Nov 2020,Y,52,35,17,11,18,15,8,7,11,11,6,4,7,4,2
+Peru,Dec 2020,Y,68,49,19,17,25,16,10,9,19,12,9,8,6,4,1
+Poland,Jan 2016,N,379,315,64,7,144,122,104,.b,.b,99,.b,.b,.b,23,.b
+Poland,Feb 2016,N,417,353,64,6,135,161,114,.b,.b,140,.b,.b,.b,21,.b
+Poland,Mar 2016,N,470,401,69,6,148,171,141,.b,.b,148,.b,.b,.b,23,.b
+Poland,Apr 2016,N,505,440,65,7,150,195,151,.b,.b,168,.b,.b,.b,27,.b
+Poland,May 2016,N,492,431,61,10,142,197,141,.b,.b,170,124,.b,.b,27,17
+Poland,Jun 2016,N,521,457,64,8,150,218,142,.b,.b,199,.b,.b,.b,19,.b
+Poland,Jul 2016,N,499,432,67,6,158,173,161,.b,.b,.b,.b,.b,.b,.b,.b
+Poland,Aug 2016,N,447,385,62,6,140,170,129,.b,.b,149,.b,.b,.b,21,.b
+Poland,Sep 2016,N,467,393,74,10,155,165,121,.b,.b,132,97,.b,.b,33,24
+Poland,Oct 2016,N,424,366,58,11,109,158,133,.b,.b,131,116,.b,.b,27,17
+Poland,Nov 2016,N,365,316,49,12,107,128,107,.b,.b,111,87,.b,.b,17,20
+Poland,Dec 2016,N,412,349,63,15,136,153,95,.b,115,132,.b,.b,21,21,.b
+Poland,Jan 2017,N,406,353,53,12,138,142,114,.b,.b,120,94,.b,.b,22,20
+Poland,Feb 2017,N,400,348,52,6,137,146,111,.b,.b,128,.b,.b,.b,18,.b
+Poland,Mar 2017,N,452,391,61,9,148,144,151,.b,.b,.b,119,.b,.b,.b,32
+Poland,Apr 2017,N,424,359,65,10,144,153,117,.b,.b,133,.b,.b,.b,20,.b
+Poland,May 2017,N,535,440,95,13,168,208,146,.b,.b,166,114,.b,.b,42,32
+Poland,Jun 2017,N,444,389,55,7,152,158,126,.b,136,.b,.b,.b,16,.b,.b
+Poland,Jul 2017,N,492,420,72,.b,163,175,.b,.b,.b,147,.b,.b,.b,28,.b
+Poland,Aug 2017,N,464,400,64,.b,150,176,.b,.b,.b,154,.b,.b,.b,22,.b
+Poland,Sep 2017,N,419,362,57,10,124,169,114,.b,.b,147,96,.b,.b,22,18
+Poland,Oct 2017,N,436,390,46,9,135,145,146,.b,.b,128,130,.b,.b,17,16
+Poland,Nov 2017,N,382,324,58,16,128,143,94,.b,.b,122,74,.b,.b,21,20
+Poland,Dec 2017,N,418,347,71,13,137,153,114,.b,.b,132,87,.b,.b,21,27
+Poland,Jan 2018,N,426,360,66,8,147,157,114,.b,.b,.b,.b,.b,.b,.b,.b
+Poland,Feb 2018,N,332,278,54,.b,109,.b,113,.b,.b,93,.b,.b,.b,14,.b
+Poland,Mar 2018,N,439,373,66,6,133,166,134,.b,113,.b,.b,.b,20,.b,.b
+Poland,Apr 2018,N,512,445,67,8,131,198,175,.b,.b,176,147,.b,.b,22,28
+Poland,May 2018,N,482,423,59,10,136,166,169,.b,.b,145,143,.b,.b,21,26
+Poland,Jun 2018,N,482,429,53,12,144,189,136,.b,.b,167,118,.b,.b,22,18
+Poland,Jul 2018,N,458,402,56,.b,140,178,.b,.b,.b,157,.b,.b,.b,21,.b
+Poland,Aug 2018,N,483,411,72,6,151,179,147,.b,.b,150,.b,.b,.b,29,.b
+Poland,Sep 2018,N,379,325,54,18,122,135,104,12,109,121,83,6,13,14,21
+Poland,Oct 2018,N,422,359,63,13,141,155,112,.b,.b,134,92,.b,.b,21,20
+Poland,Nov 2018,N,400,344,56,6,130,141,123,.b,.b,122,102,.b,.b,19,21
+Poland,Dec 2018,N,363,319,44,6,132,114,110,.b,.b,103,.b,.b,.b,11,.b
+Poland,Jan 2019,N,401,338,63,6,148,124,122,.b,126,.b,.b,.b,22,.b,.b
+Poland,Feb 2019,N,385,333,52,.b,142,125,.b,.b,125,.b,.b,.b,17,.b,.b
+Poland,Mar 2019,N,416,359,57,.b,139,.b,141,.b,.b,113,.b,.b,.b,18,.b
+Poland,Apr 2019,N,452,387,65,.b,144,166,.b,.b,.b,142,.b,.b,.b,24,.b
+Poland,May 2019,N,479,416,63,6,156,164,153,.b,.b,144,.b,.b,.b,20,.b
+Poland,Jun 2019,N,507,424,83,9,185,167,146,.b,160,.b,.b,.b,25,.b,.b
+Poland,Jul 2019,N,442,379,63,8,135,151,146,.b,.b,133,122,.b,.b,18,24
+Poland,Aug 2019,N,478,408,70,11,153,159,154,.b,.b,136,125,.b,.b,23,29
+Poland,Sep 2019,N,419,367,52,11,142,142,122,.b,122,.b,102,.b,20,.b,20
+Poland,Oct 2019,N,453,379,74,11,137,161,142,.b,114,.b,117,.b,23,.b,25
+Poland,Nov 2019,N,408,343,65,10,119,142,135,.b,.b,121,108,.b,.b,21,27
+Poland,Dec 2019,N,417,366,51,11,155,118,133,.b,134,.b,114,.b,21,.b,19
+Poland,Jan 2020,N,415,370,45,8,138,144,125,.b,.b,128,111,.b,.b,16,14
+Poland,Feb 2020,N,373,307,66,14,110,131,117,.b,.b,110,91,.b,.b,21,26
+Poland,Mar 2020,N,393,336,57,.b,133,139,.b,.b,115,.b,.b,.b,18,.b,.b
+Poland,Apr 2020,N,379,320,59,.b,131,126,.b,.b,.b,104,.b,.b,.b,22,.b
+Poland,May 2020,N,479,403,76,.b,160,170,.b,.b,.b,145,.b,.b,.b,25,.b
+Poland,Jun 2020,N,486,420,66,11,140,158,176,.b,.b,139,147,.b,.b,19,29
+Poland,Jul 2020,N,497,421,76,.b,.b,161,183,.b,.b,.b,150,.b,.b,.b,33
+Poland,Aug 2020,N,478,399,79,7,161,167,142,.b,.b,138,.b,.b,.b,29,.b
+Poland,Sep 2020,N,410,344,66,18,127,146,118,10,107,129,97,8,20,17,21
+Poland,Oct 2020,N,452,372,80,13,166,139,134,7,145,116,104,6,21,23,30
+Poland,Nov 2020,N,380,330,50,12,135,122,109,.b,.b,105,91,.b,.b,17,18
+Poland,Dec 2020,N,419,362,57,10,145,142,122,.b,127,128,.b,.b,18,14,.b
+Poland,Jan 2021,N,458,379,79,6,153,159,139,.b,.b,.b,.b,.b,.b,.b,.b
+Poland,Feb 2021,N,371,316,55,.b,138,126,.b,.b,120,.b,.b,.b,18,.b,.b
+Poland,Mar 2021,N,388,334,54,8,129,142,107,.b,111,.b,.b,.b,18,.b,.b
+Poland,Apr 2021,N,470,396,74,10,144,155,160,.b,123,.b,125,.b,21,.b,35
+Poland,May 2021,N,525,443,82,12,156,183,170,.b,.b,158,143,.b,.b,25,27
+Poland,Jun 2021,N,476,405,71,13,158,164,139,.b,.b,139,116,.b,.b,25,23
+Scotland,Jan 2016,N,53,33,20,.b,15,21,.b,.b,.b,14,.b,.b,.b,7,.b
+Scotland,Feb 2016,N,45,33,12,.b,12,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Mar 2016,N,50,39,11,.b,17,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Apr 2016,N,51,32,19,.b,17,20,.b,.b,10,.b,.b,.b,7,.b,.b
+Scotland,May 2016,N,45,35,10,.b,15,20,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jun 2016,N,60,41,19,.b,19,29,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jul 2016,N,51,40,11,.b,23,17,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Aug 2016,N,54,38,16,.b,17,26,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Sep 2016,N,45,36,9,.b,19,16,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Oct 2016,N,46,33,13,.b,15,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Nov 2016,N,44,33,11,.b,18,18,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Dec 2016,N,56,40,16,.b,19,27,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jan 2017,N,51,36,15,.b,13,27,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Feb 2017,N,39,30,9,.b,11,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Mar 2017,N,40,31,9,.b,10,20,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Apr 2017,N,48,38,10,.b,16,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,May 2017,N,52,39,13,.b,22,19,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jun 2017,N,55,47,8,.b,19,26,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jul 2017,N,67,55,12,.b,21,35,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Aug 2017,N,56,45,11,.b,24,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Sep 2017,N,58,45,13,.b,19,29,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Oct 2017,N,43,37,6,.b,19,17,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Nov 2017,N,48,40,8,.b,18,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Dec 2017,N,50,33,17,.b,18,20,.b,.b,10,.b,.b,.b,8,.b,.b
+Scotland,Jan 2018,N,45,31,14,.b,15,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Feb 2018,N,47,35,12,.b,25,14,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Mar 2018,N,47,38,9,.b,21,13,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Apr 2018,N,52,32,20,.b,20,23,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,May 2018,N,49,39,10,.b,17,19,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jun 2018,N,44,31,13,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jul 2018,N,59,46,13,.b,19,31,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Aug 2018,N,62,37,25,9,20,25,8,.b,.b,13,.b,.b,.b,12,.b
+Scotland,Sep 2018,N,61,51,10,.b,17,32,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Oct 2018,N,52,42,10,7,16,19,10,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Nov 2018,N,40,32,8,.b,13,18,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Dec 2018,N,62,45,17,.b,24,25,.b,.b,16,.b,.b,.b,8,.b,.b
+Scotland,Jan 2019,N,62,48,14,.b,27,20,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Feb 2019,N,59,34,25,.b,23,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Mar 2019,N,59,49,10,.b,23,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Apr 2019,N,60,49,11,.b,25,28,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,May 2019,N,68,51,17,.b,24,26,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jun 2019,N,59,42,17,.b,23,19,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jul 2019,N,61,47,14,.b,27,24,.b,.b,.b,17,.b,.b,.b,7,.b
+Scotland,Aug 2019,N,45,35,10,.b,17,21,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Sep 2019,N,55,39,16,.b,21,22,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Oct 2019,N,45,32,13,.b,19,18,.b,.b,.b,11,.b,.b,.b,7,.b
+Scotland,Nov 2019,N,67,53,14,.b,27,31,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Dec 2019,N,45,34,11,.b,18,16,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jan 2020,N,54,40,14,.b,23,21,.b,.b,.b,14,.b,.b,.b,7,.b
+Scotland,Feb 2020,N,57,35,22,.b,24,24,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Mar 2020,N,52,35,17,.b,26,17,.b,.b,15,.b,.b,.b,11,.b,.b
+Scotland,Apr 2020,N,43,35,8,.b,21,15,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,May 2020,N,50,42,8,.b,23,18,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jun 2020,N,73,48,25,6,31,26,10,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Jul 2020,N,69,52,17,.b,27,30,.b,.b,.b,20,.b,.b,.b,10,.b
+Scotland,Aug 2020,N,66,49,17,.b,27,28,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Sep 2020,N,68,50,18,.b,34,28,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Oct 2020,N,44,35,9,.b,17,20,.b,.b,.b,.b,.b,.b,.b,.b,.b
+Scotland,Nov 2020,N,57,41,16,.b,.b,24,16,.b,.b,.b,10,.b,.b,.b,6
+Scotland,Dec 2020,N,52,38,14,.b,19,24,.b,.b,.b,16,.b,.b,.b,8,.b
+Slovenia,Jan 2016,N,30,21,9,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Feb 2016,N,23,15,8,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Mar 2016,N,22,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Apr 2016,N,33,26,7,.b,.b,12,13,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,May 2016,N,35,.b,.b,.b,.b,16,12,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jun 2016,N,31,24,7,.b,.b,11,13,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jul 2016,N,30,.b,.b,.b,.b,12,11,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Aug 2016,N,34,.b,.b,.b,.b,10,17,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Sep 2016,N,31,25,6,.b,.b,12,12,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Oct 2016,N,33,24,9,.b,.b,.b,19,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Nov 2016,N,29,20,9,.b,12,9,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Dec 2016,N,40,.b,.b,.b,.b,16,15,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jan 2017,N,25,.b,.b,.b,.b,11,8,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Feb 2017,N,23,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Mar 2017,N,39,32,7,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Apr 2017,N,37,27,10,.b,.b,11,20,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,May 2017,N,40,34,6,.b,.b,14,17,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jun 2017,N,30,23,7,.b,.b,7,17,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jul 2017,N,49,39,10,.b,.b,19,19,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Aug 2017,N,33,24,9,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Sep 2017,N,36,29,7,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Oct 2017,N,45,39,6,.b,.b,23,16,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Nov 2017,N,26,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Dec 2017,N,28,19,9,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jan 2018,N,27,20,7,.b,.b,13,8,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Feb 2018,N,24,17,7,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Mar 2018,N,26,17,9,.b,.b,7,13,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Apr 2018,N,35,.b,.b,.b,.b,8,17,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,May 2018,N,33,26,7,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jun 2018,N,38,29,9,.b,.b,14,17,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jul 2018,N,32,26,6,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Aug 2018,N,30,23,7,.b,.b,14,9,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Sep 2018,N,25,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Oct 2018,N,25,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Nov 2018,N,30,22,8,.b,.b,.b,16,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Dec 2018,N,28,21,7,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jan 2019,N,31,.b,.b,.b,.b,13,11,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Feb 2019,N,37,27,10,.b,.b,14,16,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Mar 2019,N,35,25,10,.b,.b,8,20,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Apr 2019,N,33,26,7,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,May 2019,N,34,27,7,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jun 2019,N,47,37,10,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jul 2019,N,32,24,8,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Aug 2019,N,35,28,7,.b,.b,12,16,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Sep 2019,N,38,.b,.b,.b,11,.b,18,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Oct 2019,N,28,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Nov 2019,N,23,17,6,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Dec 2019,N,21,14,7,.b,.b,.b,14,.a,.a,.a,.a,.a,.a,.a,.a
+Slovenia,Jan 2020,N,36,.b,.b,.b,.b,11,18,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jan 2016,Y,905,642,263,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Feb 2016,Y,968,681,287,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Mar 2016,Y,1232,877,355,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Apr 2016,Y,1141,819,322,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,May 2016,Y,1197,862,335,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jun 2016,Y,1128,778,350,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jul 2016,Y,1108,780,328,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Aug 2016,Y,1115,769,346,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Sep 2016,Y,1217,867,350,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Oct 2016,Y,1151,788,363,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Nov 2016,Y,967,681,286,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Dec 2016,Y,963,699,264,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jan 2017,Y,923,669,254,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Feb 2017,Y,935,685,250,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Mar 2017,Y,1037,742,295,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Apr 2017,Y,1097,786,311,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,May 2017,Y,1158,827,331,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jun 2017,Y,1075,772,303,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jul 2017,Y,1018,720,298,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Aug 2017,Y,1119,788,331,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Sep 2017,Y,1050,736,314,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Oct 2017,Y,1105,794,311,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Nov 2017,Y,981,711,270,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Dec 2017,Y,965,692,273,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jan 2018,Y,1128,797,331,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Feb 2018,Y,958,718,240,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Mar 2018,Y,1409,1021,388,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Apr 2018,Y,1269,936,333,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,May 2018,Y,1194,864,330,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jun 2018,Y,1180,813,367,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jul 2018,Y,1183,832,351,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Aug 2018,Y,1087,800,287,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Sep 2018,Y,1087,768,319,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Oct 2018,Y,1145,849,296,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Nov 2018,Y,1044,757,287,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Dec 2018,Y,986,707,279,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jan 2019,Y,1114,796,318,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Feb 2019,Y,971,694,277,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Mar 2019,Y,1182,871,311,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Apr 2019,Y,1131,831,300,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,May 2019,Y,1274,919,355,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jun 2019,Y,1108,783,325,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jul 2019,Y,1248,874,374,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Aug 2019,Y,1152,824,328,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Sep 2019,Y,1093,796,297,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Oct 2019,Y,1248,820,428,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Nov 2019,Y,1098,713,385,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Dec 2019,Y,1180,809,371,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jan 2020,Y,1092,771,321,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Feb 2020,Y,993,714,279,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Mar 2020,Y,1149,783,366,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Apr 2020,Y,1120,764,356,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,May 2020,Y,1152,791,361,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jun 2020,Y,1135,761,374,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jul 2020,Y,1228,849,379,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Aug 2020,Y,1185,810,375,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Sep 2020,Y,1020,685,335,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Oct 2020,Y,1147,795,352,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Nov 2020,Y,1061,715,346,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Dec 2020,Y,913,655,258,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jan 2021,Y,941,612,329,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Feb 2021,Y,952,642,310,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Mar 2021,Y,1248,887,361,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Apr 2021,Y,1150,795,355,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,May 2021,Y,1118,772,346,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+South Korea,Jun 2021,Y,1153,798,355,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jan 2016,N,286,197,89,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Feb 2016,N,282,201,81,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Mar 2016,N,290,199,91,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Apr 2016,N,361,229,132,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,May 2016,N,372,260,112,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jun 2016,N,321,227,94,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jul 2016,N,337,230,107,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Aug 2016,N,315,232,83,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Sep 2016,N,340,229,111,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Oct 2016,N,327,211,116,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Nov 2016,N,269,173,96,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Dec 2016,N,265,171,94,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jan 2017,N,274,187,87,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Feb 2017,N,294,201,93,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Mar 2017,N,331,205,126,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Apr 2017,N,277,167,110,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,May 2017,N,365,245,120,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jun 2017,N,381,256,125,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jul 2017,N,332,226,106,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Aug 2017,N,364,244,120,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Sep 2017,N,311,213,98,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Oct 2017,N,330,226,104,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Nov 2017,N,283,195,88,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Dec 2017,N,329,209,120,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jan 2018,N,324,215,109,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Feb 2018,N,275,184,91,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Mar 2018,N,317,214,103,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Apr 2018,N,338,235,103,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,May 2018,N,358,245,113,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jun 2018,N,319,193,126,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jul 2018,N,314,218,96,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Aug 2018,N,330,210,120,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Sep 2018,N,348,228,120,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Oct 2018,N,351,218,133,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Nov 2018,N,299,189,110,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Dec 2018,N,292,202,90,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jan 2019,N,302,190,112,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Feb 2019,N,323,198,125,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Mar 2019,N,375,258,117,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Apr 2019,N,322,230,92,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,May 2019,N,338,229,109,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jun 2019,N,375,246,129,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jul 2019,N,331,219,112,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Aug 2019,N,317,222,95,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Sep 2019,N,319,199,120,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Oct 2019,N,319,211,108,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Nov 2019,N,247,161,86,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Dec 2019,N,296,191,105,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jan 2020,N,263,174,89,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Feb 2020,N,305,208,97,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Mar 2020,N,285,176,109,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Apr 2020,N,304,202,102,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,May 2020,N,320,218,102,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jun 2020,N,312,211,101,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Jul 2020,N,338,220,118,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Aug 2020,N,318,202,116,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Sep 2020,N,297,195,102,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Oct 2020,N,317,195,122,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Nov 2020,N,300,201,99,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+Taiwan,Dec 2020,N,297,202,95,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jan 2016,Y,3720,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Feb 2016,Y,3445,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Mar 2016,Y,3921,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Apr 2016,Y,3812,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,May 2016,Y,3853,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jun 2016,Y,3726,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jul 2016,Y,4033,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Aug 2016,Y,4042,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Sep 2016,Y,3720,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Oct 2016,Y,3838,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Nov 2016,Y,3458,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Dec 2016,Y,3397,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jan 2017,Y,3709,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Feb 2017,Y,3381,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Mar 2017,Y,3870,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Apr 2017,Y,3972,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,May 2017,Y,4257,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jun 2017,Y,4081,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jul 2017,Y,4179,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Aug 2017,Y,4275,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Sep 2017,Y,4024,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Oct 2017,Y,4072,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Nov 2017,Y,3724,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Dec 2017,Y,3629,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jan 2018,Y,3966,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Feb 2018,Y,3596,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Mar 2018,Y,4011,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Apr 2018,Y,3920,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,May 2018,Y,4190,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jun 2018,Y,4378,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jul 2018,Y,4356,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Aug 2018,Y,4300,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Sep 2018,Y,4136,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Oct 2018,Y,4127,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Nov 2018,Y,3651,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Dec 2018,Y,3713,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jan 2019,Y,3833,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Feb 2019,Y,3561,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Mar 2019,Y,4161,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Apr 2019,Y,4029,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,May 2019,Y,4052,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jun 2019,Y,4050,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jul 2019,Y,4193,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Aug 2019,Y,4181,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Sep 2019,Y,4109,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Oct 2019,Y,4043,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Nov 2019,Y,3597,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Dec 2019,Y,3702,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jan 2020,Y,4039,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Feb 2020,Y,3668,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Mar 2020,Y,3952,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Apr 2020,Y,3477,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,May 2020,Y,3760,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jun 2020,Y,3977,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jul 2020,Y,4180,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Aug 2020,Y,4042,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Sep 2020,Y,3917,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Oct 2020,Y,3789,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Nov 2020,Y,3705,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Dec 2020,Y,3568,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA,Jan 2021,Y,3824,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jan 2016,Y,387,292,95,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Feb 2016,Y,353,274,79,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Mar 2016,Y,373,288,85,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Apr 2016,Y,381,285,96,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,May 2016,Y,366,279,87,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jun 2016,Y,345,274,71,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jul 2016,Y,369,278,91,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Aug 2016,Y,383,308,75,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Sep 2016,Y,353,273,80,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Oct 2016,Y,358,267,91,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Nov 2016,Y,349,258,91,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Dec 2016,Y,311,232,79,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jan 2017,Y,342,246,96,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Feb 2017,Y,307,241,66,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Mar 2017,Y,396,299,97,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Apr 2017,Y,339,250,89,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,May 2017,Y,401,322,79,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jun 2017,Y,383,294,89,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jul 2017,Y,366,286,80,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Aug 2017,Y,407,312,95,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Sep 2017,Y,365,297,68,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Oct 2017,Y,406,320,86,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Nov 2017,Y,318,261,57,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Dec 2017,Y,338,270,68,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jan 2018,Y,388,306,82,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Feb 2018,Y,351,275,76,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Mar 2018,Y,355,285,70,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Apr 2018,Y,353,268,85,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,May 2018,Y,367,281,86,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jun 2018,Y,417,305,112,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jul 2018,Y,426,355,71,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Aug 2018,Y,411,313,98,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Sep 2018,Y,374,283,91,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Oct 2018,Y,400,314,86,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Nov 2018,Y,368,291,77,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Dec 2018,Y,341,271,70,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jan 2019,Y,370,275,95,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Feb 2019,Y,335,271,64,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Mar 2019,Y,388,306,82,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Apr 2019,Y,389,312,76,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,May 2019,Y,358,266,92,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jun 2019,Y,412,328,84,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jul 2019,Y,383,315,68,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Aug 2019,Y,450,344,106,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Sep 2019,Y,378,299,79,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Oct 2019,Y,353,278,75,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Nov 2019,Y,322,253,69,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Dec 2019,Y,331,264,67,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jan 2020,Y,381,304,77,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Feb 2020,Y,339,262,77,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Mar 2020,Y,355,281,74,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Apr 2020,Y,307,240,67,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,May 2020,Y,309,228,81,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jun 2020,Y,356,277,79,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jul 2020,Y,380,318,62,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Aug 2020,Y,377,297,80,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Sep 2020,Y,318,240,78,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Oct 2020,Y,346,259,87,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Nov 2020,Y,322,250,72,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Dec 2020,Y,298,241,57,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jan 2021,Y,327,270,57,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Feb 2021,Y,308,238,70,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Mar 2021,Y,335,263,72,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Apr 2021,Y,312,248,64,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,May 2021,Y,323,247,76,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_California,Jun 2021,Y,310,247,63,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Illinois_Cook County,Jan 2016,Y,41,32,9,3,17,14,7,1,14,11,6,2,3,3,1
+USA_Illinois_Cook County,Feb 2016,Y,31,22,9,1,6,19,5,1,5,12,4,0,1,7,1
+USA_Illinois_Cook County,Mar 2016,Y,48,32,16,2,12,24,10,0,10,14,8,2,2,10,2
+USA_Illinois_Cook County,Apr 2016,Y,43,32,11,0,10,19,14,0,6,16,10,0,4,3,4
+USA_Illinois_Cook County,May 2016,Y,48,40,8,2,21,15,10,2,19,11,8,0,2,4,2
+USA_Illinois_Cook County,Jun 2016,Y,30,27,3,1,8,13,8,0,7,12,8,1,1,1,0
+USA_Illinois_Cook County,Jul 2016,Y,34,27,7,1,16,9,8,1,14,5,7,0,2,4,1
+USA_Illinois_Cook County,Aug 2016,Y,37,30,7,0,14,14,9,0,11,11,8,0,3,3,1
+USA_Illinois_Cook County,Sep 2016,Y,32,27,5,3,15,10,4,2,14,7,4,1,1,3,0
+USA_Illinois_Cook County,Oct 2016,Y,32,23,9,2,10,16,4,2,6,13,2,0,4,3,2
+USA_Illinois_Cook County,Nov 2016,Y,30,23,7,1,11,12,6,1,10,8,4,0,1,4,2
+USA_Illinois_Cook County,Dec 2016,Y,33,23,10,4,16,9,4,3,11,6,3,1,5,3,1
+USA_Illinois_Cook County,Jan 2017,Y,38,25,13,3,14,9,12,3,9,3,10,0,5,6,2
+USA_Illinois_Cook County,Feb 2017,Y,30,25,5,2,10,10,8,2,8,8,7,0,2,2,1
+USA_Illinois_Cook County,Mar 2017,Y,42,30,12,1,16,14,11,0,11,11,8,1,5,3,3
+USA_Illinois_Cook County,Apr 2017,Y,42,27,15,6,12,11,13,3,9,6,9,3,3,5,4
+USA_Illinois_Cook County,May 2017,Y,49,44,5,5,18,15,11,5,16,14,9,0,2,1,2
+USA_Illinois_Cook County,Jun 2017,Y,35,24,11,1,14,13,7,0,10,9,5,1,4,4,2
+USA_Illinois_Cook County,Jul 2017,Y,36,29,7,4,12,15,5,3,9,12,5,1,3,3,0
+USA_Illinois_Cook County,Aug 2017,Y,35,30,5,4,13,13,5,3,12,11,4,1,1,2,1
+USA_Illinois_Cook County,Sep 2017,Y,42,31,11,3,18,14,7,2,13,11,5,1,5,3,2
+USA_Illinois_Cook County,Oct 2017,Y,51,39,12,4,19,17,11,1,17,13,8,3,2,4,3
+USA_Illinois_Cook County,Nov 2017,Y,35,24,11,1,15,11,8,0,9,8,7,1,6,3,1
+USA_Illinois_Cook County,Dec 2017,Y,42,31,11,4,13,15,10,3,10,10,8,1,3,5,2
+USA_Illinois_Cook County,Jan 2018,Y,32,26,6,1,18,9,4,0,15,9,2,1,3,0,2
+USA_Illinois_Cook County,Feb 2018,Y,42,36,6,2,16,17,7,2,12,15,7,0,4,2,0
+USA_Illinois_Cook County,Mar 2018,Y,49,35,14,4,19,18,8,3,15,10,7,1,4,8,1
+USA_Illinois_Cook County,Apr 2018,Y,40,32,8,2,13,19,6,1,11,15,5,1,2,4,1
+USA_Illinois_Cook County,May 2018,Y,33,28,5,1,10,11,11,1,8,10,9,0,2,1,2
+USA_Illinois_Cook County,Jun 2018,Y,44,35,9,1,14,20,9,1,12,14,8,0,2,6,1
+USA_Illinois_Cook County,Jul 2018,Y,34,21,13,3,8,17,6,1,5,11,4,2,3,6,2
+USA_Illinois_Cook County,Aug 2018,Y,41,32,9,6,14,12,9,3,11,10,8,3,3,2,1
+USA_Illinois_Cook County,Sep 2018,Y,41,29,12,3,13,13,12,2,10,8,9,1,3,5,3
+USA_Illinois_Cook County,Oct 2018,Y,47,37,10,5,15,17,10,4,8,16,9,1,7,1,1
+USA_Illinois_Cook County,Nov 2018,Y,44,27,17,5,19,13,7,1,14,7,5,4,5,6,2
+USA_Illinois_Cook County,Dec 2018,Y,33,28,5,0,11,18,4,0,10,14,4,0,1,4,0
+USA_Illinois_Cook County,Jan 2019,Y,35,26,9,2,11,12,10,2,7,8,9,0,4,4,1
+USA_Illinois_Cook County,Feb 2019,Y,43,26,17,4,14,17,8,2,10,8,6,2,4,9,2
+USA_Illinois_Cook County,Mar 2019,Y,45,39,6,1,15,13,16,1,13,11,14,0,2,2,2
+USA_Illinois_Cook County,Apr 2019,Y,38,27,11,1,10,16,11,1,7,10,9,0,3,6,2
+USA_Illinois_Cook County,May 2019,Y,37,26,11,4,10,16,7,2,6,11,7,2,4,5,0
+USA_Illinois_Cook County,Jun 2019,Y,33,26,7,1,12,8,12,1,11,5,9,0,1,3,3
+USA_Illinois_Cook County,Jul 2019,Y,40,31,9,2,10,16,12,2,7,13,9,0,3,3,3
+USA_Illinois_Cook County,Aug 2019,Y,49,38,11,1,15,20,13,1,12,16,9,0,3,4,4
+USA_Illinois_Cook County,Sep 2019,Y,35,27,8,1,14,12,8,0,11,10,6,1,3,2,2
+USA_Illinois_Cook County,Oct 2019,Y,40,33,7,3,16,13,8,3,12,10,8,0,4,3,0
+USA_Illinois_Cook County,Nov 2019,Y,40,32,8,4,17,12,7,2,13,11,6,2,4,1,1
+USA_Illinois_Cook County,Dec 2019,Y,45,32,13,2,13,16,14,1,8,10,13,1,5,6,1
+USA_Illinois_Cook County,Jan 2020,Y,39,34,5,6,13,12,8,6,11,9,8,0,2,3,0
+USA_Illinois_Cook County,Feb 2020,Y,39,27,12,3,13,13,10,3,10,9,5,0,3,4,5
+USA_Illinois_Cook County,Mar 2020,Y,42,33,9,1,12,15,14,1,8,13,11,0,4,2,3
+USA_Illinois_Cook County,Apr 2020,Y,33,27,6,1,13,8,11,1,11,7,8,0,2,1,3
+USA_Illinois_Cook County,May 2020,Y,33,28,5,5,8,14,6,4,7,12,5,1,1,2,1
+USA_Illinois_Cook County,Jun 2020,Y,34,24,10,2,12,10,10,1,10,5,8,1,2,5,2
+USA_Illinois_Cook County,Jul 2020,Y,44,39,5,3,16,15,10,1,14,15,9,2,2,0,1
+USA_Illinois_Cook County,Aug 2020,Y,47,35,12,3,15,13,16,2,10,9,14,1,5,4,2
+USA_Illinois_Cook County,Sep 2020,Y,32,27,5,3,9,9,11,2,7,8,10,1,2,1,1
+USA_Illinois_Cook County,Oct 2020,Y,43,29,14,3,20,11,9,1,15,7,6,2,5,4,3
+USA_Illinois_Cook County,Nov 2020,Y,30,23,7,3,7,14,6,3,6,9,5,0,1,5,1
+USA_Illinois_Cook County,Dec 2020,Y,30,26,4,2,14,8,6,2,12,7,5,0,2,1,1
+USA_Illinois_Cook County,Jan 2021,Y,37,31,6,2,11,14,10,1,8,13,9,1,3,1,1
+USA_Illinois_Cook County,Feb 2021,Y,34,21,13,2,17,8,7,1,10,6,4,1,7,2,3
+USA_Illinois_Cook County,Mar 2021,Y,37,27,10,1,18,14,4,1,12,11,3,0,6,3,1
+USA_Illinois_Cook County,Apr 2021,Y,38,33,5,1,16,11,10,1,12,10,10,0,4,1,0
+USA_Illinois_Cook County,May 2021,Y,50,40,10,4,16,16,14,2,14,13,11,2,2,3,3
+USA_Illinois_Cook County,Jun 2021,Y,40,29,11,3,21,7,9,0,19,4,6,3,2,3,3
+USA_New Jersey,Jan 2016,Y,44,33,11,1,13,18,12,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Feb 2016,Y,56,41,15,5,8,23,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Mar 2016,Y,63,53,10,2,17,25,19,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Apr 2016,Y,68,53,15,1,22,24,21,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,May 2016,Y,63,47,16,5,18,24,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jun 2016,Y,57,48,9,4,12,26,15,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jul 2016,Y,62,48,14,0,22,26,14,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Aug 2016,Y,63,48,15,2,19,27,15,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Sep 2016,Y,60,45,15,4,14,26,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Oct 2016,Y,51,40,11,2,14,23,12,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Nov 2016,Y,45,33,12,2,15,17,11,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Dec 2016,Y,56,41,15,3,9,33,11,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jan 2017,Y,57,40,17,5,9,31,12,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Feb 2017,Y,79,65,14,2,19,38,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Mar 2017,Y,71,45,26,4,18,25,24,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Apr 2017,Y,55,44,11,6,15,26,8,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,May 2017,Y,61,45,16,1,18,26,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jun 2017,Y,72,58,14,4,21,31,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jul 2017,Y,72,55,17,4,19,34,15,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Aug 2017,Y,63,44,19,1,20,26,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Sep 2017,Y,53,39,14,1,16,25,11,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Oct 2017,Y,63,47,16,9,21,21,12,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Nov 2017,Y,72,51,21,2,23,27,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Dec 2017,Y,77,57,20,6,22,29,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jan 2018,Y,70,52,18,3,27,19,21,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Feb 2018,Y,46,35,11,2,16,21,7,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Mar 2018,Y,66,50,16,2,18,29,17,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Apr 2018,Y,52,39,13,2,12,27,11,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,May 2018,Y,69,52,17,5,24,25,15,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jun 2018,Y,83,60,23,3,24,35,21,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jul 2018,Y,66,48,18,3,19,28,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Aug 2018,Y,79,63,16,3,20,35,21,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Sep 2018,Y,64,55,9,2,15,26,21,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Oct 2018,Y,69,47,22,4,24,25,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Nov 2018,Y,50,37,13,2,17,18,13,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Dec 2018,Y,64,54,10,4,21,21,18,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jan 2019,Y,69,51,18,2,27,24,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Feb 2019,Y,58,43,15,2,14,22,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Mar 2019,Y,65,51,14,2,19,29,15,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Apr 2019,Y,62,43,19,6,16,22,18,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,May 2019,Y,69,53,16,4,15,30,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jun 2019,Y,51,39,12,3,17,18,13,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jul 2019,Y,64,50,14,2,13,30,19,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Aug 2019,Y,72,52,20,4,24,28,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Sep 2019,Y,54,41,13,4,17,24,9,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Oct 2019,Y,63,49,14,5,23,21,14,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Nov 2019,Y,75,53,22,2,24,23,26,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Dec 2019,Y,60,45,15,0,13,31,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jan 2020,Y,68,54,14,10,22,16,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Feb 2020,Y,48,39,9,6,14,12,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Mar 2020,Y,43,36,7,2,13,15,13,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Apr 2020,Y,63,46,17,3,25,19,16,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,May 2020,Y,59,44,15,0,22,22,15,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jun 2020,Y,57,49,8,0,17,19,21,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jul 2020,Y,69,55,14,2,14,28,25,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Aug 2020,Y,70,54,16,3,29,18,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Sep 2020,Y,45,35,10,3,8,15,19,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Oct 2020,Y,55,39,16,4,14,17,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Nov 2020,Y,47,32,15,3,11,20,13,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Dec 2020,Y,44,38,6,4,8,18,14,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jan 2021,Y,49,36,13,2,17,18,12,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Feb 2021,Y,54,41,13,3,15,16,20,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Mar 2021,Y,60,51,9,5,20,25,10,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Apr 2021,Y,58,46,12,0,22,19,17,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,May 2021,Y,48,39,9,2,14,17,15,.a,.a,.a,.a,.a,.a,.a,.a
+USA_New Jersey,Jun 2021,Y,45,39,6,0,11,22,12,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jan 2016,Y,163,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Feb 2016,Y,141,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Mar 2016,Y,173,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Apr 2016,Y,169,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,May 2016,Y,158,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jun 2016,Y,158,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jul 2016,Y,207,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Aug 2016,Y,183,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Sep 2016,Y,172,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Oct 2016,Y,159,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Nov 2016,Y,163,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Dec 2016,Y,124,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jan 2017,Y,161,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Feb 2017,Y,144,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Mar 2017,Y,167,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Apr 2017,Y,166,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,May 2017,Y,201,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jun 2017,Y,165,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jul 2017,Y,157,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Aug 2017,Y,198,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Sep 2017,Y,189,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Oct 2017,Y,161,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Nov 2017,Y,157,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Dec 2017,Y,164,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jan 2018,Y,172,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Feb 2018,Y,148,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Mar 2018,Y,177,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Apr 2018,Y,180,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,May 2018,Y,158,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jun 2018,Y,181,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jul 2018,Y,173,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Aug 2018,Y,180,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Sep 2018,Y,173,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Oct 2018,Y,180,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Nov 2018,Y,153,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Dec 2018,Y,139,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jan 2019,Y,146,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Feb 2019,Y,145,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Mar 2019,Y,147,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Apr 2019,Y,163,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,May 2019,Y,147,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jun 2019,Y,159,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jul 2019,Y,171,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Aug 2019,Y,152,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Sep 2019,Y,161,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Oct 2019,Y,176,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Nov 2019,Y,178,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Dec 2019,Y,151,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jan 2020,Y,146,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Feb 2020,Y,140,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Mar 2020,Y,149,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Apr 2020,Y,111,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,May 2020,Y,151,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jun 2020,Y,143,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jul 2020,Y,143,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Aug 2020,Y,151,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Sep 2020,Y,160,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Oct 2020,Y,149,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Nov 2020,Y,124,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Dec 2020,Y,153,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jan 2021,Y,123,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Feb 2021,Y,140,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Mar 2021,Y,132,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Apr 2021,Y,131,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,May 2021,Y,155,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Pennsylvania,Jun 2021,Y,121,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jan 2016,N,24,.b,.b,.b,.b,10,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Feb 2016,N,18,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Mar 2016,N,19,.b,.b,.b,.b,.b,7,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Apr 2016,N,17,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,May 2016,N,18,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jun 2016,N,21,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jul 2016,N,18,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Aug 2016,N,26,.b,.b,.b,.b,9,10,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Sep 2016,N,26,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Oct 2016,N,21,.b,.b,.b,.b,12,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Nov 2016,N,16,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Dec 2016,N,14,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jan 2017,N,34,.b,.b,.b,.b,16,11,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Feb 2017,N,13,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Mar 2017,N,19,.b,.b,.b,.b,7,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Apr 2017,N,25,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,May 2017,N,27,21,6,.b,.b,.b,11,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jun 2017,N,22,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jul 2017,N,27,.b,.b,.b,.b,9,11,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Aug 2017,N,19,.b,.b,.b,.b,.b,7,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Sep 2017,N,30,22,8,.b,.b,12,10,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Oct 2017,N,25,.b,.b,.b,.b,10,8,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Nov 2017,N,32,26,6,.b,.b,14,12,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Dec 2017,N,25,.b,.b,.b,.b,9,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jan 2018,N,18,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Feb 2018,N,19,.b,.b,.b,.b,11,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Mar 2018,N,26,.b,.b,.b,.b,6,14,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Apr 2018,N,34,.b,.b,.b,.b,13,11,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,May 2018,N,14,.b,.b,.b,.b,.b,6,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jun 2018,N,24,.b,.b,.b,9,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jul 2018,N,25,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Aug 2018,N,19,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Sep 2018,N,27,.b,.b,.b,.b,12,8,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Oct 2018,N,21,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Nov 2018,N,25,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Dec 2018,N,17,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jan 2019,N,28,.b,.b,.b,.b,12,10,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Feb 2019,N,21,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Mar 2019,N,17,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Apr 2019,N,12,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,May 2019,N,23,.b,.b,.b,7,10,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jun 2019,N,14,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jul 2019,N,15,8,7,.b,.b,7,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Aug 2019,N,12,.b,.b,.b,6,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Sep 2019,N,22,15,7,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Oct 2019,N,23,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Nov 2019,N,18,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Dec 2019,N,21,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jan 2020,N,27,.b,.b,.b,.b,9,10,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Feb 2020,N,12,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Mar 2020,N,15,.b,.b,.b,.b,6,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Apr 2020,N,9,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,May 2020,N,11,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jun 2020,N,19,.b,.b,.b,.b,10,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jul 2020,N,19,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Aug 2020,N,18,.b,.b,.b,.b,10,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Sep 2020,N,21,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Oct 2020,N,9,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Nov 2020,N,17,.b,.b,.b,.b,.b,8,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Dec 2020,N,17,.b,.b,.b,.b,.b,7,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jan 2021,N,24,.b,.b,.b,12,.b,6,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Feb 2021,N,21,.b,.b,.b,7,.b,7,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Mar 2021,N,11,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Apr 2021,N,15,.b,.b,.b,.b,.b,6,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,May 2021,N,10,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Puerto Rico,Jun 2021,N,10,.b,.b,.b,.b,.b,.b,.a,.a,.a,.a,.a,.a,.a,.a
+USA_Texas_4 counties,Jan 2016,Y,31,20,11,1,12,9,9,1,8,6,5,0,4,3,4
+USA_Texas_4 counties,Feb 2016,Y,30,24,6,2,9,9,10,2,7,6,9,0,2,3,1
+USA_Texas_4 counties,Mar 2016,Y,27,24,3,0,5,12,10,0,5,10,9,0,0,2,1
+USA_Texas_4 counties,Apr 2016,Y,30,23,7,1,13,10,6,1,10,7,5,0,3,3,1
+USA_Texas_4 counties,May 2016,Y,32,21,11,5,7,12,8,3,7,5,6,2,0,7,2
+USA_Texas_4 counties,Jun 2016,Y,35,30,5,0,17,14,4,0,14,12,4,0,3,2,0
+USA_Texas_4 counties,Jul 2016,Y,30,20,10,2,12,9,7,1,10,6,3,1,2,3,4
+USA_Texas_4 counties,Aug 2016,Y,25,21,4,1,8,10,6,1,8,8,4,0,0,2,2
+USA_Texas_4 counties,Sep 2016,Y,31,28,3,1,10,15,5,0,10,13,5,1,0,2,0
+USA_Texas_4 counties,Oct 2016,Y,37,31,6,2,12,13,10,2,11,8,10,0,1,5,0
+USA_Texas_4 counties,Nov 2016,Y,27,23,4,2,10,8,7,2,7,8,6,0,3,0,1
+USA_Texas_4 counties,Dec 2016,Y,31,24,7,4,13,11,3,3,11,7,3,1,2,4,0
+USA_Texas_4 counties,Jan 2017,Y,27,22,5,2,9,12,4,0,9,10,3,2,0,2,1
+USA_Texas_4 counties,Feb 2017,Y,25,16,9,1,6,11,7,0,4,6,6,1,2,5,1
+USA_Texas_4 counties,Mar 2017,Y,42,31,11,3,14,13,12,3,9,9,10,0,5,4,2
+USA_Texas_4 counties,Apr 2017,Y,35,28,7,3,14,15,3,3,11,12,2,0,3,3,1
+USA_Texas_4 counties,May 2017,Y,35,27,8,3,8,18,6,3,5,13,6,0,3,5,0
+USA_Texas_4 counties,Jun 2017,Y,37,32,5,3,17,12,5,3,15,9,5,0,2,3,0
+USA_Texas_4 counties,Jul 2017,Y,34,27,7,0,20,10,4,0,15,8,4,0,5,2,0
+USA_Texas_4 counties,Aug 2017,Y,35,26,9,3,10,13,9,2,9,9,6,1,1,4,3
+USA_Texas_4 counties,Sep 2017,Y,35,27,8,4,10,16,5,3,8,11,5,1,2,5,0
+USA_Texas_4 counties,Oct 2017,Y,31,29,2,3,10,10,8,2,10,10,7,1,0,0,1
+USA_Texas_4 counties,Nov 2017,Y,28,24,4,1,12,4,11,1,12,4,7,0,0,0,4
+USA_Texas_4 counties,Dec 2017,Y,28,23,5,0,15,7,6,0,13,6,4,0,2,1,2
+USA_Texas_4 counties,Jan 2018,Y,47,35,12,5,14,17,11,4,8,15,8,1,6,2,3
+USA_Texas_4 counties,Feb 2018,Y,32,24,8,2,13,11,6,1,11,8,4,1,2,3,2
+USA_Texas_4 counties,Mar 2018,Y,30,23,7,1,9,13,7,1,7,9,6,0,2,4,1
+USA_Texas_4 counties,Apr 2018,Y,33,29,4,4,10,8,11,3,8,8,10,1,2,0,1
+USA_Texas_4 counties,May 2018,Y,46,37,9,4,18,17,7,3,15,12,7,1,3,5,0
+USA_Texas_4 counties,Jun 2018,Y,36,26,10,1,17,14,4,1,12,9,4,0,5,5,0
+USA_Texas_4 counties,Jul 2018,Y,35,28,7,3,11,16,5,3,10,11,4,0,1,5,1
+USA_Texas_4 counties,Aug 2018,Y,39,29,10,1,15,15,8,0,10,11,8,1,5,4,0
+USA_Texas_4 counties,Sep 2018,Y,37,30,7,5,11,16,5,4,8,15,3,1,3,1,2
+USA_Texas_4 counties,Oct 2018,Y,25,20,5,2,8,6,9,2,7,6,5,0,1,0,4
+USA_Texas_4 counties,Nov 2018,Y,28,20,8,1,12,12,3,1,10,8,1,0,2,4,2
+USA_Texas_4 counties,Dec 2018,Y,24,18,6,2,7,9,6,1,6,6,5,1,1,3,1
+USA_Texas_4 counties,Jan 2019,Y,30,25,5,5,9,8,8,4,8,6,7,1,1,2,1
+USA_Texas_4 counties,Feb 2019,Y,31,19,12,1,9,18,3,1,4,12,2,0,5,6,1
+USA_Texas_4 counties,Mar 2019,Y,33,26,7,5,15,8,5,3,11,7,5,2,4,1,0
+USA_Texas_4 counties,Apr 2019,Y,36,29,7,5,18,10,3,5,13,8,3,0,5,2,0
+USA_Texas_4 counties,May 2019,Y,25,14,11,1,9,7,8,0,4,6,4,1,5,1,4
+USA_Texas_4 counties,Jun 2019,Y,35,28,7,2,14,10,9,0,10,10,8,2,4,0,1
+USA_Texas_4 counties,Jul 2019,Y,32,30,2,3,10,16,3,1,10,16,3,2,0,0,0
+USA_Texas_4 counties,Aug 2019,Y,31,23,8,3,12,13,3,3,9,10,1,0,3,3,2
+USA_Texas_4 counties,Sep 2019,Y,44,37,7,4,23,7,10,3,20,5,9,1,3,2,1
+USA_Texas_4 counties,Oct 2019,Y,34,25,9,3,7,13,11,3,5,9,8,0,2,4,3
+USA_Texas_4 counties,Nov 2019,Y,36,25,11,6,13,13,4,3,9,10,3,3,4,3,1
+USA_Texas_4 counties,Dec 2019,Y,30,25,5,4,12,9,5,4,8,8,5,0,4,1,0
+USA_Texas_4 counties,Jan 2020,Y,41,31,10,4,14,17,6,3,10,13,5,1,4,4,1
+USA_Texas_4 counties,Feb 2020,Y,38,32,6,2,15,12,9,2,14,8,8,0,1,4,1
+USA_Texas_4 counties,Mar 2020,Y,31,25,6,2,8,13,8,1,8,9,7,1,0,4,1
+USA_Texas_4 counties,Apr 2020,Y,30,27,3,1,12,11,6,1,10,10,6,0,2,1,0
+USA_Texas_4 counties,May 2020,Y,31,26,5,0,9,16,6,0,9,13,4,0,0,3,2
+USA_Texas_4 counties,Jun 2020,Y,25,23,2,3,9,9,4,2,9,8,4,1,0,1,0
+USA_Texas_4 counties,Jul 2020,Y,34,29,5,4,13,7,10,4,9,7,9,0,4,0,1
+USA_Texas_4 counties,Aug 2020,Y,33,27,6,5,13,12,3,4,12,8,3,1,1,4,0
+USA_Texas_4 counties,Sep 2020,Y,32,26,6,5,11,8,8,5,9,6,6,0,2,2,2
+USA_Texas_4 counties,Oct 2020,Y,20,18,2,2,10,5,3,2,10,3,3,0,0,2,0
+USA_Texas_4 counties,Nov 2020,Y,33,21,12,5,19,4,5,4,11,2,4,1,8,2,1
+USA_Texas_4 counties,Dec 2020,Y,36,30,6,4,15,5,12,4,12,3,11,0,3,2,1
+USA_Texas_4 counties,Jan 2021,Y,30,26,4,3,11,5,11,3,9,4,10,0,2,1,1
+USA_Texas_4 counties,Feb 2021,Y,39,29,10,3,18,11,7,2,14,9,4,1,4,2,3
+USA_Texas_4 counties,Mar 2021,Y,37,27,10,3,13,11,10,2,10,6,9,1,3,5,1
+USA_Texas_4 counties,Apr 2021,Y,35,29,6,3,15,11,6,2,13,10,4,1,2,1,2
+USA_Texas_4 counties,May 2021,Y,41,31,10,8,15,10,8,6,11,9,5,2,4,1,3
+USA_Texas_4 counties,Jun 2021,Y,40,27,13,4,18,12,6,4,9,10,4,0,9,2,2
+USA_Wisconsin_5 counties,Jan 2016,Y,9,6,3,2,3,1,3,2,2,0,2,0,1,1,1
+USA_Wisconsin_5 counties,Feb 2016,Y,11,8,3,0,4,6,1,0,2,5,1,0,2,1,0
+USA_Wisconsin_5 counties,Mar 2016,Y,11,9,2,0,7,3,1,0,6,2,1,0,1,1,0
+USA_Wisconsin_5 counties,Apr 2016,Y,9,6,3,0,3,4,2,0,2,3,1,0,1,1,1
+USA_Wisconsin_5 counties,May 2016,Y,10,6,4,0,2,4,4,0,0,2,4,0,2,2,0
+USA_Wisconsin_5 counties,Jun 2016,Y,8,5,3,1,4,2,1,0,3,2,0,1,1,0,1
+USA_Wisconsin_5 counties,Jul 2016,Y,7,6,1,1,3,1,2,0,3,1,2,1,0,0,0
+USA_Wisconsin_5 counties,Aug 2016,Y,12,10,2,0,6,3,3,0,5,2,3,0,1,1,0
+USA_Wisconsin_5 counties,Sep 2016,Y,8,5,3,0,2,5,1,0,0,4,1,0,2,1,0
+USA_Wisconsin_5 counties,Oct 2016,Y,15,13,2,1,6,6,2,1,5,5,2,0,1,1,0
+USA_Wisconsin_5 counties,Nov 2016,Y,9,5,4,2,4,1,2,1,1,1,2,1,3,0,0
+USA_Wisconsin_5 counties,Dec 2016,Y,5,5,0,0,3,2,0,0,3,2,0,0,0,0,0
+USA_Wisconsin_5 counties,Jan 2017,Y,20,15,5,3,7,7,3,1,6,6,2,2,1,1,1
+USA_Wisconsin_5 counties,Feb 2017,Y,9,5,4,3,0,4,2,0,0,4,1,3,0,0,1
+USA_Wisconsin_5 counties,Mar 2017,Y,12,9,3,1,3,7,1,0,3,5,1,1,0,2,0
+USA_Wisconsin_5 counties,Apr 2017,Y,7,6,1,0,3,2,2,0,2,2,2,0,1,0,0
+USA_Wisconsin_5 counties,May 2017,Y,12,8,4,2,4,5,1,1,3,4,0,1,1,1,1
+USA_Wisconsin_5 counties,Jun 2017,Y,15,12,3,1,3,6,5,0,3,5,4,1,0,1,1
+USA_Wisconsin_5 counties,Jul 2017,Y,14,10,4,0,6,6,2,0,5,3,2,0,1,3,0
+USA_Wisconsin_5 counties,Aug 2017,Y,13,11,2,1,6,1,5,1,5,1,4,0,1,0,1
+USA_Wisconsin_5 counties,Sep 2017,Y,15,8,7,0,6,5,4,0,1,4,3,0,5,1,1
+USA_Wisconsin_5 counties,Oct 2017,Y,13,11,2,0,4,6,3,0,4,5,2,0,0,1,1
+USA_Wisconsin_5 counties,Nov 2017,Y,10,7,3,1,3,2,4,1,2,1,3,0,1,1,1
+USA_Wisconsin_5 counties,Dec 2017,Y,13,12,1,1,3,4,5,1,3,4,4,0,0,0,1
+USA_Wisconsin_5 counties,Jan 2018,Y,7,6,1,1,3,2,1,1,3,1,1,0,0,1,0
+USA_Wisconsin_5 counties,Feb 2018,Y,11,9,2,0,2,8,1,0,2,6,1,0,0,2,0
+USA_Wisconsin_5 counties,Mar 2018,Y,13,11,2,1,4,6,2,1,3,5,2,0,1,1,0
+USA_Wisconsin_5 counties,Apr 2018,Y,6,3,3,0,4,1,1,0,2,0,1,0,2,1,0
+USA_Wisconsin_5 counties,May 2018,Y,12,11,1,1,4,4,3,1,4,3,3,0,0,1,0
+USA_Wisconsin_5 counties,Jun 2018,Y,13,10,3,2,4,5,2,2,3,3,2,0,1,2,0
+USA_Wisconsin_5 counties,Jul 2018,Y,12,12,0,0,3,5,4,0,3,5,4,0,0,0,0
+USA_Wisconsin_5 counties,Aug 2018,Y,12,7,5,0,6,4,2,0,4,2,1,0,2,2,1
+USA_Wisconsin_5 counties,Sep 2018,Y,7,5,2,0,3,2,2,0,2,2,1,0,1,0,1
+USA_Wisconsin_5 counties,Oct 2018,Y,7,5,2,1,2,2,2,1,1,1,2,0,1,1,0
+USA_Wisconsin_5 counties,Nov 2018,Y,7,4,3,1,3,3,0,1,1,2,0,0,2,1,0
+USA_Wisconsin_5 counties,Dec 2018,Y,7,6,1,0,3,2,2,0,3,1,2,0,0,1,0
+USA_Wisconsin_5 counties,Jan 2019,Y,12,11,1,2,4,3,3,2,4,3,2,0,0,0,1
+USA_Wisconsin_5 counties,Feb 2019,Y,8,6,2,1,2,4,1,1,2,2,1,0,0,2,0
+USA_Wisconsin_5 counties,Mar 2019,Y,13,9,4,0,9,3,1,0,6,2,1,0,3,1,0
+USA_Wisconsin_5 counties,Apr 2019,Y,13,10,3,0,8,4,1,0,6,3,1,0,2,1,0
+USA_Wisconsin_5 counties,May 2019,Y,8,5,3,0,5,2,1,0,4,0,1,0,1,2,0
+USA_Wisconsin_5 counties,Jun 2019,Y,9,7,2,0,2,4,3,0,1,3,3,0,1,1,0
+USA_Wisconsin_5 counties,Jul 2019,Y,11,4,7,2,3,6,0,1,0,3,0,1,3,3,0
+USA_Wisconsin_5 counties,Aug 2019,Y,8,5,3,0,4,1,3,0,2,1,2,0,2,0,1
+USA_Wisconsin_5 counties,Sep 2019,Y,6,4,2,1,2,1,2,1,2,0,1,0,0,1,1
+USA_Wisconsin_5 counties,Oct 2019,Y,9,7,2,1,4,2,2,1,3,2,1,0,1,0,1
+USA_Wisconsin_5 counties,Nov 2019,Y,7,7,0,2,3,1,1,2,3,1,1,0,0,0,0
+USA_Wisconsin_5 counties,Dec 2019,Y,11,9,2,0,3,5,3,0,2,5,2,0,1,0,1
+USA_Wisconsin_5 counties,Jan 2020,Y,9,9,0,0,5,2,2,0,5,2,2,0,0,0,0
+USA_Wisconsin_5 counties,Feb 2020,Y,12,8,4,0,5,5,2,0,3,4,1,0,2,1,1
+USA_Wisconsin_5 counties,Mar 2020,Y,13,12,1,0,5,5,3,0,5,4,3,0,0,1,0
+USA_Wisconsin_5 counties,Apr 2020,Y,7,5,2,1,4,1,1,1,2,1,1,0,2,0,0
+USA_Wisconsin_5 counties,May 2020,Y,14,14,0,0,9,3,2,0,9,3,2,0,0,0,0
+USA_Wisconsin_5 counties,Jun 2020,Y,11,9,2,1,6,2,2,0,6,2,1,1,0,0,1
+USA_Wisconsin_5 counties,Jul 2020,Y,3,2,1,0,1,1,1,0,0,1,1,0,1,0,0
+USA_Wisconsin_5 counties,Aug 2020,Y,21,17,4,0,6,7,8,0,6,6,5,0,0,1,3
+USA_Wisconsin_5 counties,Sep 2020,Y,9,6,3,0,3,5,1,0,2,4,0,0,1,1,1
+USA_Wisconsin_5 counties,Oct 2020,Y,7,6,1,0,1,3,3,0,1,3,2,0,0,0,1
+USA_Wisconsin_5 counties,Nov 2020,Y,9,9,0,0,5,3,1,0,5,3,1,0,0,0,0
+USA_Wisconsin_5 counties,Dec 2020,Y,9,6,3,1,1,4,3,1,0,2,3,0,1,2,0
+USA_Wisconsin_5 counties,Jan 2021,Y,8,6,2,1,2,3,2,0,2,3,1,1,0,0,1
+USA_Wisconsin_5 counties,Feb 2021,Y,12,10,2,0,7,3,2,0,6,3,1,0,1,0,1
+USA_Wisconsin_5 counties,Mar 2021,Y,9,7,2,0,1,4,4,0,1,4,2,0,0,0,2
+USA_Wisconsin_5 counties,Apr 2021,Y,11,8,3,0,5,5,1,0,4,3,1,0,1,2,0
+USA_Wisconsin_5 counties,May 2021,Y,12,8,4,0,5,4,3,0,4,2,2,0,1,2,1
+USA_Wisconsin_5 counties,Jun 2021,Y,13,10,3,2,2,7,2,2,2,5,1,0,0,2,1
